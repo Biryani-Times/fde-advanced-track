@@ -1,0 +1,61 @@
+
+//listing down the things, that I got into my mind.
+// As I have a developing experience around 8 years, jsut thought that knowing these technologies.
+//would bring more confidence.
+
+
+
+
+1. Quantified baseline: measure what happens today
+
+Before building anything, establish the current performance.
+
+For example, suppose we measure:
+- Agents handle 1,000 order-status enquiries a week.
+- Each enquiry takes six minutes on average.
+- Twenty percent require escalation to another team.
+
+
+2. Conflicting stakeholders: handle people who want different things
+
+The customer is rarely one person with one clear requirement.
+
+For example:
+Stakeholder	What they want
+Support head	Let the assistant cancel orders automatically
+Finance head	Require approval when a refund is involved
+Warehouse head	Prevent cancellation once packing has started
+Security team	Restrict which customer records the assistant can access
+
+
+
+3. Scoped pilot: agree on a small first deployment ( RAPID prototype )
+
+A pilot is a limited trial that tests whether the solution is useful. “Scoped” means explicitly defining its boundaries.
+
+For example:
+- Users: ten support agents.
+- Capability: order-status lookup.
+- Data: orders from one region.
+- Duration: two weeks.
+- Excluded: cancellations and refunds.
+- Success: faster handling while maintaining answer accuracy.
+- Fallback: agents use the existing system when the assistant cannot answer reliably.
+The student learns to make a commitment they can deliver and evaluate. The pilot also needs an agreed decision afterward: expand, revise or stop.
+
+
+
+4 -> schema evolution (protobuf , avro )
+
+5 -> deduplication could be everywhere, (outbox and inbox patterns )
+
+6 -> Rag ( token economics )
+
+7 -> some knowledge on transformers ( because it will increase the confidence )
+
+8 -> bert , w2vec in detail.
+
+9 -> open search , lora Quanitization techniques (bcss other programs like interview kickstart offers it. )
+
+10 -> agents resumability .
+
