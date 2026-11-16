@@ -1,0 +1,109 @@
+Scaler FDE curriculum gaps
+
+Comparison with employer requirements
+
+Prepared for Praneeth Karnatakam | 17 November 2026
+
+Recommendation
+
+Prioritise reusable customer solutions, product feedback, practical model adaptation and delivery across unfamiliar platforms. Strengthen assessment of integration, debugging, AI quality and handover. Scaler already covers the principal RAG, agent, software and cloud concepts; the advanced track should make the expected depth and passing evidence explicit.
+
+How to interpret the evidence
+
+The research contains 104 selected job descriptions from 104 employers, including 16 India-listed roles. Technology and capability totals were reconciled against the workbook skill tags. It is a purposive global sample with a large US share, not a market census or an India-only demand estimate.
+
+Role-linked counts include core qualifications, preferences and delivery responsibilities, and exclude context-only mentions. Qualification lists may contain examples or alternatives. Categories overlap, so counts must not be added as unique employers. Capability groupings are analyst interpretations of employer wording.
+
+A gap means a topic or required demonstration is not explicit in the published Scaler outline. It does not establish that instructors never teach it. The assessments below are recommendations derived from the comparison, not verbatim employer requirements.
+
+Highest priority additions
+
+Reusable customer solutions
+
+65/104 descriptions mention reusable tooling or patterns. Reusable Python components are present, but reuse across customer engagements deserves explicit treatment.
+
+Required demonstration Convert a Meridian-specific connector into a configurable package. Deploy it for a second customer without copying the codebase; document configuration, versioning and tests.
+
+Product feedback from deployments
+
+39/104 mention product feedback. A structured customer-to-product feedback loop is not explicit.
+
+Required demonstration Produce a reproducible customer issue, identify whether it is general or customer-specific, and propose a product change with acceptance criteria.
+
+Practical model adaptation
+
+Fine-tuning/post-training: 16 mentions, 14 role-linked. Scaler discusses when to fine-tune; a complete assessed training-and-comparison exercise is not explicit.
+
+Required demonstration Prepare data, run one bounded adaptation experiment, compare against prompt/RAG baselines and defend adopting or rejecting the result.
+
+Further additions and stronger assessments
+
+Delivery beyond the primary cloud
+
+GCP: 22 mentions, 17 role-linked. Azure: 15 mentions, 14 role-linked. Scaler includes cross-cloud mapping; practical migration depth is unclear.
+
+Required demonstration Deploy a small service on one alternate cloud and explain identity, networking, model-service and operational differences.
+
+Agent context and memory
+
+4 mentions, all classified as core qualifications; some list examples or alternatives. Persistent memory lifecycle and context management are not explicitly named.
+
+Required demonstration Implement task state, selective context retrieval, tenant-separated memory, expiry and deletion.
+
+Unfamiliar customer technology stacks
+
+Go: 16 mentions, 15 role-linked. Java: 13 role-linked mentions. The main teaching stack does not establish experience changing an unfamiliar customer service.
+
+Required demonstration Diagnose and patch a supplied Java or Go service, then integrate it with the Python solution. Assess reading and adaptation rather than mastery of every language.
+
+Existing coverage requiring stronger evidence
+
+These are assessment improvements, not absent subject areas. The workbook supports the broad capabilities; the specific failure exercises are curriculum recommendations.
+
+Employer capability | Mentions / 104 | Proposed advanced assessment
+
+Enterprise integration | 83 | Recover from expired credentials, schema changes, repeated webhooks and partial writes; reconcile the result.
+
+Debugging and troubleshooting | 54 | Diagnose an unfamiliar failure spanning application, connector, data and infrastructure.
+
+Rapid prototyping | 43 | Build a time-boxed prototype, then identify and implement its production-readiness changes.
+
+AI quality and evaluation | 33 | Build customer-specific evaluation cases, analyse failure categories and defend a release decision.
+
+Customer enablement and handover | 31 | Have another team operate the deployment using the submitted documentation without coaching.
+
+Specialisations and implementation priorities
+
+Offer targeted specialisations
+
+Specialisation | Evidence in the sample | Suggested exercise
+
+Enterprise data platforms | Databricks: 6 role-linked. Snowflake: 5 role-linked. | Integrate one warehouse or lakehouse with customer applications and access rules.
+
+Business application integration | Salesforce/ServiceNow: 11 total, 5 role-linked. | Build and operate one enterprise application connector.
+
+Model serving internals | vLLM/TensorRT/Triton: 3 role-linked, including Baseten, Modal and Together AI. | Benchmark one inference runtime under defined quality, latency and cost constraints.
+
+Enterprise identity | SSO/SCIM grouped tag: 3 mentions; underlying matches are SSO. | Integrate customer SSO and test permission changes. The data does not establish three SCIM requirements.
+
+Transformer and classical ML foundations
+
+The workbook does not establish broad demand for a large transformer-theory or classical-ML module. PyTorch appears in five descriptions, four role-linked. The single Hugging Face/Transformers match is not proof of a transformer-architecture requirement. Classical ML algorithms are not separately measured.
+
+Include concise foundations where they support model selection, evaluation and adaptation. Justify that content as prerequisite knowledge. Reserve deeper training and serving material for relevant specialisations rather than presenting it as a universal market requirement.
+
+Where to incorporate the changes
+
+Add reuse and customer product feedback to milestone reviews and the final handover. Add a complete experiment to model adaptation, context and memory to agents, and an alternate-cloud exercise to deployment. Use the new-client capstone to test unfamiliar-stack integration and independent operation.
+
+Prioritise reusable solutions, product feedback, model adaptation and assessed production delivery first. Cloud, platform and inference options can vary by learner target role. Reallocate existing class time or replace optional exercises before committing to additional required content.
+
+Sources and traceability
+
+Employer evidence: FDE_Job_Market_Research_104_Employers_2026-11-17.xlsx. Role expectations rows 5–22 contain capability counts; Technology demand rows 5–78 contain technology totals and role-linked counts. Jobs contains employer URLs; Skill tags contains classifications. Methodology rows 8–28 explain sampling and limitations.
+
+Scaler detailed curriculum reviewed on 17 November 2026
+
+Comparison areas: Production Python; Backend; RAG; Agents and Enterprise Integration; Enterprise AI Architecture; AWS Deployment; Reliability; Security; and the New Client Capstone. Recommendations are judgments about curriculum design, not guarantees of hiring outcomes.
+
+Scaler source URL: https://www.scaler.com/scaler-ai-forward-deployed-engineer-detailed-curriculum

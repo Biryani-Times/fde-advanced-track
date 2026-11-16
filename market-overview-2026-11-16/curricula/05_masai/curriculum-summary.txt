@@ -1,0 +1,17 @@
+Masai + iHUB DivyaSampark
+Source: https://www.masaischool.com/program/iit-roorkee/fde/growth/accelerate
+Reviewed: 16 November 2026
+Compiled from the official program page reviewed on 16 November 2026. This is not a downloaded original webpage or vendor brochure. The direct file download failed certificate verification.
+
+Module 1: Programming, SQL and Software Foundations — 10 weeks
+Module 2: Customer Systems, Data Engineering and Integration — 7 weeks
+Module 3: LLM Foundations, Evaluation and Customer Knowledge — 4 weeks
+Module 4: Controlled Agents and MCP — 2 weeks
+Module 5: Production Engineering and Customer Adoption — 4 weeks
+Module 6: FDE Engagement and Capstone — 5 weeks
+
+Each module pairs technical work with customer-facing skills. The final engagement is deployed, defended and handed over.
+
+Advertised duration: seven months. Module lengths sum to 32 weeks. Advertised workload: 8–10 hours per week including live classes and self-study.
+
+Official brochure: https://cdn.masaischool.com/general/fdeg-brochure-1793449380992.pdf

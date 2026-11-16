@@ -1,0 +1,238 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>K21Academy curriculum</title><style>body{font:19px/1.55 system-ui,sans-serif;color:#172b43;background:#f3f5f8;margin:0}main{max-width:1120px;margin:auto;padding:45px 35px}section{background:white;padding:35px;margin:25px 0;border-radius:14px}h1{font-size:43px;line-height:1.12}h2{font-size:29px;line-height:1.2}h3{font-size:23px}a{color:#135eaa}nav{display:flex;flex-wrap:wrap;gap:15px}table{border-collapse:collapse;width:100%;font-size:17px}td,th{text-align:left;padding:14px;border-bottom:1px solid #dce3ec;vertical-align:top}th{background:#eaf0f7}.muted{color:#53647a;font-size:15px}.tag{color:#325877;font-weight:600}.callout{background:#edf5f5;padding:22px;border-left:4px solid #287678}pre{white-space:pre-wrap;font:17px/1.6 system-ui}button{font:inherit;padding:8px 15px}@media print{body{background:white}section{break-inside:avoid}nav{display:none}}</style><main><nav><a href="../../START_HERE.html">← Market overview</a><a href="https://k21academy.com/course/fde-fp/">Official source</a></nav><section><p class="tag">Saved public curriculum · extracted from the official webpage</p><h1>K21Academy</h1><p class="muted">16 November 2026 · This is a readable extract of the downloaded public webpage, not an original vendor PDF brochure. The complete HTML and text are saved alongside it.</p><pre>THE CURRICULUM
+See exactly what you’ll build, week by week
+Get a clear look at the learning path, hands-on work, and the real-world projects that take you from AI foundations to deploying production-ready solutions as a Forward Deployed Engineer.
+12-week live program
+Hands-on labs
+Real-world capstone
+18 modules across 12 weeks
+Two hours a day, Monday to Friday. The first hour is concept and a live demo; the second is a lab you build yourself. Open any module to see what you cover, the labs inside it, and what you hand in.
+Technical track12
+Client-facing track5
+Capstone1
+M01Weeks 1-3
+Python for AIThe language every FDE writes in daily, aimed squarely at AI work.
+3 labs
+What you cover
+Python foundations for AI engineering
+Typing, packaging and project structure
+Tests you can put in CI
+Labs
+Build a typed Python utility for an AI service
+Write the pytest suite that covers it
+Package the project and run its tests in CI
+CheckpointPython utility + tests
+M02Weeks 1-3
+Delivery &amp; AI-assisted codingHow software actually gets shipped - and how to use AI assistants without losing control of the codebase.
+2 labs
+What you cover
+The delivery lifecycle for AI projects
+AI-assisted coding workflows
+Git, branches and pull requests
+Labs
+Ship a change through a branch, pull request and review
+Drive an AI coding assistant through a real refactor
+M03Weeks 1-3
+FastAPI &amp; SQLThe API layer of every production agentic app, and the database underneath it.
+3 labs
+What you cover
+FastAPI services and OpenAPI contracts
+SQL and PostgreSQL fundamentals
+Data modeling for AI applications
+Labs
+Build the Ticket Service API with FastAPI
+Model and query the data in PostgreSQL
+Publish the OpenAPI contract and test every endpoint
+CheckpointTicket Service API
+M04Weeks 3-5
+OpenAI &amp; Claude APIsTwo providers, swapped freely - so you are never locked into one model vendor.
+4 labs
+What you cover
+OpenAI and Anthropic Claude APIs
+Prompt engineering and structured output
+Bedrock, Azure OpenAI and Ollama options
+Labs
+Call the OpenAI and Claude APIs side by side
+Force structured output your app can rely on
+Build a provider-agnostic LLM layer and swap models
+Compare cost and latency across providers
+CheckpointLLM service + chat UI
+M05Weeks 3-5
+React front endThe interface the client actually sees - a streaming chat UI with an approval queue.
+3 labs
+What you cover
+React, Vite and TypeScript
+A streaming chat interface
+An approval queue for human-in-the-loop
+Labs
+Build the streaming chat interface in React
+Add the human approval queue
+Wire the UI to your FastAPI service
+M06Weeks 5-7
+RAG with pgvectorRetrieval accurate enough to put in front of a client, with a citation on every answer.
+5 labs
+What you cover
+Chunking, embedding and the pgvector store
+Hybrid search and reranking
+Citations, streaming and groundedness scoring
+Labs
+Chunk and embed a document set into pgvector
+Add hybrid search across keyword and vector
+Add cross-encoder reranking
+Return streamed answers with citations
+Score the pipeline with RAGAS groundedness
+CheckpointKnowledge assistant (RAG)
+M07Weeks 5-7
+LangChainOrchestration for retrieval and chains, before you move up to graphs.
+3 labs
+What you cover
+LangChain chains and runnables
+Retrieval orchestration
+Connecting tools and data sources
+Labs
+Build retrieval chains with LCEL
+Connect tools and data sources to a chain
+Compare chain designs on the same question set
+M08Weeks 7-9
+LangGraph agentsThe deepest module: multi-agent flows that triage, plan, act and pause for a human.
+6 labs
+What you cover
+LangGraph state, nodes and conditional edges
+Triage → plan → act agent loops
+Human-approval interrupts, memory and traces
+Labs
+Build a StateGraph with typed state
+Add conditional edges and routing
+Parallelise work with fan-out and fan-in
+Add a human-approval interrupt
+Persist memory across turns
+Trace and visualise the graph
+CheckpointMulti-agent workflow
+M09Weeks 7-9
+Agent SDKs &amp; MCPGive your agent real tools - and build the MCP server that exposes them.
+4 labs
+What you cover
+OpenAI Agents SDK and Claude SDK
+Model Context Protocol servers and clients
+Tool calls into Jira and Confluence
+Labs
+Build your first ReAct agent with tools
+Write a custom MCP server for Jira
+Call Confluence through MCP from the agent
+Compare the OpenAI Agents SDK with the Claude SDK
+CheckpointMCP server
+M10Weeks 9-12
+Evals &amp; securityThe module that separates a demo from something a client&#x27;s security team will approve.
+6 labs
+What you cover
+LangSmith tracing, RAGAS and DeepEval
+Guardrails and Presidio PII redaction
+OWASP LLM Top 10 and red-teaming
+Labs
+Build a golden dataset from real tickets
+Score groundedness and relevance with RAGAS
+Check tool-call accuracy with DeepEval
+Redact PII with Presidio
+Red-team for prompt injection and data leakage
+Trace every run in LangSmith
+CheckpointEval + red-team report
+M11Weeks 9-12
+Docker &amp; CI/CDContainers and a pipeline that blocks the deploy when quality drops.
+3 labs
+What you cover
+Docker images for API, agent, UI and Postgres
+GitHub Actions pipelines
+Eval gates, lint, unit and integration tests
+Labs
+Containerise the API, agent, UI and Postgres
+Build a GitHub Actions pipeline
+Add the eval gate that blocks a bad deploy
+M12Weeks 9-12
+Render, AWS &amp; AzureShipping into the client&#x27;s own cloud account, not a demo sandbox.
+3 labs
+What you cover
+Render, AWS ECS / Fargate and Azure Container Apps
+Private networks, managed secrets and SSO
+Monitoring, logs, traces and cost
+Labs
+Deploy to AWS ECS / Fargate or Azure Container Apps
+Set up private networking, secrets and SSO
+Build the Grafana KPI dashboard
+CheckpointCI/CD + cloud deploy
+M13Runs alongside
+The FDE role &amp; engagement setupWhat a Forward Deployed Engineer actually does, and how an engagement is set up from day one.
+1 practice
+What you cover
+The role across discover, design, build, deploy, measure and hand over
+Working in a pod with a Deployment Strategist
+Engagement setup and ways of working
+Practice
+Map a real engagement onto the six FDE steps
+M14Week 4
+Client discoveryThe skill the job posts call customer-facing delivery - and the first thing an interviewer will test.
+2 practice
+What you cover
+Interviewing stakeholders: leads, agents, end users
+Analysing operational data and ticket history
+Agreeing scope, data access and success metrics
+Practice
+Run a discovery interview role-play
+Write the client problem brief from your findings
+CheckpointClient problem brief
+M15Week 7
+PRD &amp; solution designTurning a conversation into a document a client will sign off.
+2 practice
+What you cover
+PRD-lite: user stories, acceptance criteria, out-of-scope
+SOW outline: sprints, effort, cost estimate, risks
+C4 architecture diagrams and ADRs
+Practice
+Write the PRD-lite and SOW outline
+Draw the C4 diagrams and record your ADRs
+CheckpointPRD-lite + SOW outline
+M16Runs alongside
+Stakeholder updatesKeeping a client informed in the language they care about.
+1 practice
+What you cover
+Weekly updates against the agreed criteria
+Executive versus technical communication
+Reporting risk, cost and change honestly
+Practice
+Deliver a weekly stakeholder update to the room
+M17Week 12
+Demo &amp; adoptionFinishing the engagement so the client team can run it without you.
+2 practice
+What you cover
+Runbook, user guide and training session
+Adoption plan: ownership, KPIs, next use cases
+The 10-minute executive demo
+Practice
+Run the handover and training session
+Rehearse the 10-minute executive demo
+M18Weeks 9-12
+Capstone &amp; Demo DayOne client problem taken end to end - discover, design, build, deploy, measure, hand over - then presented to a panel.
+3 labs
+What you cover
+Pick a scenario or bring one from your own industry
+Run all six FDE steps against it
+Present to a panel at Demo Day
+Labs
+Build and deploy the system into a cloud account
+Produce the full client artifact set
+Record the 10-minute executive demo
+CheckpointCapstone package + Demo Day recording
+Every module is a layer of the same application
+Nothing is taught in isolation. By week 12 these layers are one running system in a cloud account.
+Front endM5
+React · Vite · TypeScript
+API layerM1 · M3
+FastAPI · Python · OpenAPI
+Agent layerM7-M9
+LangGraph · LangChain · Agents SDK · Claude SDK · MCP
+LLM providersM4
+OpenAI · Claude · Bedrock · Azure OpenAI · Ollama
+Data &amp; retrievalM3 · M6
+PostgreSQL · pgvector · Redis · hybrid search
+Quality &amp; securityM10
+LangSmith · RAGAS · DeepEval · Presidio · Pytest
+Ship &amp; runM11 · M12
+Docker · GitHub Actions · Render · AWS · Azure · Grafana</pre></section></main></html>

@@ -1,0 +1,442 @@
+Fireblaze AI School
+Source: https://fireblazeaischool.in/courses/forward-deployed-engineer-course/
+Downloaded: 16 November 2026
+Type: text extracted from the public program page, not a vendor PDF brochure.
+
+﻿
+Forward Deployed Engineer Course: Online and Nagpur
+📢
+Admissions Open | Free Career Counselling | Limited Scholarships
+Register Now →
+✕
+Skip to main content
+Fireblaze AI School
+Home
+Programs
+Placements
+Centers
+About
+Events
+Blog
+Contact
+Sign In
+Home
+Programs
+Forward Deployed Engineer Course
+Applied AI Forward Deployment Engineering Program
+Forward Deployed Engineer Course: Build AI That Ships
+The engineering, AI and customer-facing skills to build AI systems that run in someone else's environment. For people who already code and want to move from notebooks to production.
+From ₹99,000 incl. GST
+26 weeks • 6 phases
+Weekend format
+Live online or Nagpur classroom
+Talk to an Advisor
+See Full Curriculum
+WhatsApp Us
+Next cohort: 16 November 2026
+The job starts in this conversation. An FDE works inside the customer's environment, not away from it.
+26 WeeksWeekend program
+10+ YrsMentor experience
+6 PhasesFoundations to capstone
+Since 2017Training in Nagpur
+Curriculum last updated: 21 September 2026
+Applied AI Forward Deployment Engineering Program is Fireblaze AI School's 26-week Forward Deployed Engineer course. It teaches you to build, deploy and operate AI systems inside real environments: production Python and SQL, data and API integration, LLM application engineering with RAG and agents, deployment with Docker and CI/CD, and the customer-facing craft of scoping and demoing to stakeholders. It runs on weekends, as live online classes available across India or classroom sessions in Nagpur. The fee is ₹99,000 for the online cohort and ₹1,29,999 for the Nagpur classroom cohort, both inclusive of 18% GST. You need working knowledge of at least one programming language to join.
+At a Glance
+ProgramApplied AI Forward Deployment Engineering Program
+Also known asForward Deployed Engineer (FDE) course
+Target rolesForward Deployed Engineer and adjacent AI delivery roles
+Duration26 weeks
+FormatLive online across India, or classroom in Nagpur
+Who it is forWorking IT professionals with 1 to 8 years of experience
+MentorsIndustry practitioners with 10+ years of experience
+ScheduleWeekend, built for working professionals
+Fee₹99,000 online, ₹1,29,999 Nagpur classroom, both inclusive of 18% GST
+PrerequisiteWorking knowledge of at least one programming language
+Capstone4-week team deployment project with an industry-panel review
+The distinction is where the work happens. A product engineer builds one capability for many customers. An FDE takes it to one customer and makes it work in their environment.
+What is a Forward Deployed Engineer?
+Short answer: A Forward Deployed Engineer (FDE) is a technical professional who works closely with customers or business teams to understand a real operational problem, then designs, builds, deploys and adapts a software or AI system to solve it inside that customer's environment.
+The distinction that matters is where the work happens. A product engineer builds one capability for many customers, from their own codebase. An FDE takes the technology to one customer and makes it work there, against that customer's data, systems, permissions and constraints, then feeds what they learned back into the product.
+The role spans six things at once: engineering, AI implementation, customer discovery, integration, deployment and iteration. That breadth is the job, and it is why the role is hard to fill. Most candidates have the engineering or the AI or the customer skills, rarely all three.
+Responsibilities vary between companies, and that variation is real rather than a hedge. If you want the wider career picture, including how the title compares with adjacent roles and what the salary situation actually is, read our detailed guide to the Forward Deployed Engineer career, or follow our step-by-step guide on how to become a forward deployed engineer in India.
+What does a Forward Deployed Engineer actually do?
+The work follows a repeating loop. This program is structured around it.
+1
+Understand the problem
+Talk to the people who will use the system. Separate what they asked for from what they actually need, which are usually different.
+2
+Inspect the environment
+Map the existing systems, APIs, databases, data quality and workflows you have to work within. This is where most projects are won or lost.
+3
+Design the solution
+Choose an architecture that fits the constraints, and decide what not to build. Knowing when retrieval beats fine-tuning, or when a SQL query beats a model, saves months.
+4
+Build
+Write production code: the application, the integrations, the AI layer, the evaluation harness that proves it works.
+5
+Deploy
+Move it into the real environment, with authentication, secrets, monitoring and the security constraints the organisation actually has.
+6
+Iterate and hand over
+Measure it against real usage, debug what breaks, then document and hand over so it survives without you.
+The Difference
+Why FDE skills are different from a typical AI course
+Most AI training stops where this program starts. The gap between a working notebook and a system a business depends on is the entire job.
+Typical AI learningFDE-oriented engineering
+A notebookA production system
+A clean teaching datasetMessy business data from three systems that disagree
+A modelA complete solution, of which the model is one part
+A prompt that demos wellAn evaluated AI application with a measured pass rate
+A course projectA deployable system with CI/CD and monitoring
+A requirements documentStakeholder discovery, because the document is wrong
+A slide presentationA live technical demo where people interrupt with questions
+A certificateA portfolio and evidence you can defend in an interview
+Who this course is for
+This program is built for working professionals with 1 to 8 years of experience in IT, typically engineers holding degrees in Computer Science, IT, AI, Data Science or an aligned branch. You should already be comfortable writing code; the program moves fast from week one.
+Engineers and developers
+Software engineers, backend developers and QA engineers who can already code and want to add applied AI and deployment.
+Data professionals
+Data analysts, data engineers and BI developers with SQL and Python who want to move from reporting into building systems.
+Engineers changing track
+CS, IT, AI and Data Science graduates a few years into an IT role who want to move into applied AI and deployment work.
+Prerequisites
+We keep the bar honest, because the program moves fast from week one.
+Required: working knowledge of at least one programming language
+Preferred: Python, basic SQL, and some familiarity with Git
+Preferred: a general understanding of how software gets built and shipped
+You do not need prior machine learning or Generative AI experience. Phase 2 builds that from fundamentals.
+Who this is not for
+We would rather tell you now than take your fee.
+Absolute beginners with no programming background. Start with our Python course first.
+Anyone looking mainly for a certificate rather than a portfolio.
+Non-technical candidates who do not intend to write code.
+Anyone wanting a purely theoretical AI course. Most of your time here is spent building and debugging.
+Two Ways to Attend
+Same curriculum, same mentors, two rooms
+The difference is where you sit, not what you are taught. Both cohorts run the same 6 phases on weekends, present weekly, and finish on the same capstone with the same industry panel. Both fees include 18% GST, and the number you see is the number you pay.
+Live online, anywhere in India
+Live Online Cohort
+Taught live, not pre-recorded. You are in the room on video, you present your work each weekend, and you are asked questions about it.
+₹99,000Inclusive of 18% GST
+Same six phases and same capstone panel
+Weekend schedule, built around a full-time job
+No relocation, no commute
+Session recordings for revision
+Apply for the Online Cohort
+Classroom, Nagpur
+Nagpur Classroom Cohort
+In the room with your mentor and your team. Pair debugging, whiteboard design reviews and capstone work happen face to face.
+₹1,29,999Inclusive of 18% GST
+Everything in the online cohort, in person
+Mentor at the desk while you debug
+Your capstone team in one room
+Centre access outside session hours
+Mate Square, Nandanvan or Sadar, teaching data and AI since 2017
+Apply for the Nagpur Cohort
+See all three Nagpur centres, and ask an advisor which one the next cohort runs at. Not sure which fits? Message us and we will tell you honestly, including if the answer is neither.
+The Path
+The Forward Deployed Engineer roadmap
+Each stage assumes the one before it. The program runs this sequence in 26 weeks.
+1Stage 1
+Programming and software engineering
+Production Python, Git and pull-request workflow, testing, and reading a codebase you did not write.
+2Stage 2
+Data, APIs and systems integration
+Advanced SQL, messy real data, REST and GraphQL, orchestration, and the enterprise formats nobody teaches.
+3Stage 3
+AI application engineering
+LLM fundamentals, RAG, agents and tool use, and the evaluation discipline that separates a demo from a system.
+4Stage 4
+Deployment, cloud and observability
+Docker, CI/CD, secrets, monitoring, security and the compliance vocabulary enterprise buyers expect.
+5Stage 5
+Customer discovery and solution design
+Stakeholder discovery, scoping, estimation, technical demos, handover and executive communication.
+6Stage 6
+Real deployment experience
+A team capstone taken from discovery through two sprints to a deployed system and a panel defence.
+Complete Curriculum
+The six phases, week by week
+Published in full, with the deliverable for each phase. Nothing hidden behind a download form.
+Where the time goes. Each block is one phase, sized to its own length. Phase 2 is deliberately the longest: AI application engineering is the part most courses skim and the part employers actually test.
+2w3w8w4w3w4w
+Phase 0: Engineering Foundations · 2 weeksPhase 1: Data & Systems Integration · 3 weeksPhase 2: AI Application Engineering · 8 weeksPhase 3: Ship & Operate · 4 weeksPhase 4: Forward Deployed Craft · 3 weeksPhase 5: Live Deployment Capstone · 4 weeks
+Phase 0 • Engineering Foundations (2 weeks)
+Git and pull-request workflow, and working in unfamiliar codebases
+Production Python: typing, logging, packaging
+Testing with pytest, including mocking
+Advanced SQL: window functions, CTEs, query plans, schema design
+Deliverable: a tested Python CLI that ingests CSV into PostgreSQL, submitted as a reviewed pull request.
+Phase 1 • Data and Systems Integration (3 weeks)
+Messy real-world data, Pandas and Polars, data profiling
+REST and GraphQL, pagination, retries, idempotency
+FastAPI, and orchestration with Airflow or Prefect
+Backfills and failure recovery
+The enterprise reality: SFTP, SOAP, Salesforce and SAP exports
+OAuth 2.0 and service accounts
+Deliverable: a scheduled pipeline running across three heterogeneous sources.
+Phase 2 • AI Application Engineering (8 weeks, the core)
+LLM fundamentals: context, cost, latency, structured output, streaming
+Prompt engineering, prompt injection and a working failure taxonomy
+RAG: chunking, embeddings, pgvector, Qdrant, hybrid search, reranking, grounding and citations
+Agents: tool use, MCP, human-in-the-loop design
+Evaluation: golden datasets, LLM-as-judge, regression testing
+Tracing and observability with Langfuse and LangSmith
+Guardrails, PII redaction, fallback chains and cost control
+Choosing between fine-tuning, RAG and plain SQL, LoRA basics, and build versus buy
+Deliverable: a RAG and agent application with an evaluation suite, a tracing dashboard, and an architecture defence.
+Phase 3 • Ship and Operate (4 weeks)
+Docker and cloud deployment, secrets management
+GitHub Actions, CI/CD, staged deployments and rollback
+Terraform fundamentals
+Observability: logging, metrics, tracing, alerting
+Security: RBAC, tenant isolation, encryption, audit logs, client VPC concepts
+The compliance vocabulary buyers use: DPDP Act, GDPR, SOC 2
+Deliverable: a production deployment with CI/CD, authentication, monitoring and a security review.
+Phase 4 • Forward Deployed Craft (3 weeks)
+Stakeholder discovery, workflow mapping and problem discovery
+Pilot scoping and solution design
+Statements of work, estimation and scope management
+Technical demos and executive communication
+Status reporting, handover, runbooks and enablement
+Taking a pilot through to production
+How it is taught: role-play sessions with mock customers, because this is a skill you cannot learn from slides.
+Phase 5 • Live Deployment Capstone (4 weeks)
+Teams of three run a full engagement end to end:
+Problem discovery and a written problem statement
+Architecture, then an architecture review
+Two development sprints
+A client-style demo, followed by scope correction
+Production deployment and handover documentation
+A final presentation to an industry panel
+Deliverable: a deployed system plus the documentation and defence that go with it.
+Not sure this is the right fit?
+Tell an advisor your current role and years of experience. If you would be better off doing Python or SQL first, they will tell you that instead of selling you this.
+Talk to an Advisor
+Learning Model
+The weekend ritual: you present, every week
+Every weekend, each student presents their work to a rotating mock stakeholder and answers both technical and business questions about it.
+The reason is straightforward. The hardest part of forward deployed work is not writing the code, it is explaining a trade-off to someone who does not share your assumptions, under questioning, without either oversimplifying or hiding behind jargon. That is a performance skill, and performance skills only improve with repetition and feedback.
+By the time you reach the capstone panel, presenting your architecture to people who will challenge it is familiar rather than frightening. That is the entire point of doing it weekly instead of once at the end.
+What a typical weekend looks like
+Concept session on the week's topic
+Supervised lab time on your own build
+Present last week's work to a mock stakeholder
+Take questions, then take the feedback into next week
+Tools
+Your stack, and why each piece is in it
+Sixteen tools, each one earning its place by showing up in real deployment work. No logo wall for the sake of it.
+Python
+The working language of AI tooling, data work and backend integration. Taught as production code, not notebook snippets.
+FastAPI
+How you expose your system to the rest of the customer's stack as a real service.
+PostgreSQL + pgvector
+The database most enterprises already run, with vector search in the same place, so you add no new infrastructure.
+Qdrant
+A dedicated vector database, for when retrieval scale or filtering outgrows pgvector.
+Docker
+The unit of deployment. If it runs on your laptop only, it is not deployed.
+GitHub
+Version control and code review, the way a delivery team actually works.
+GitHub Actions
+The CI/CD pipeline that ships your changes safely, with a way back if they break.
+Terraform
+Infrastructure as code, so an environment can be rebuilt and reviewed rather than hand-configured.
+Airflow / Prefect
+Scheduling and orchestrating pipelines, including backfills and recovery when a run fails.
+LangGraph
+Structuring agent workflows with explicit state, instead of a prompt chain nobody can debug.
+Langfuse / LangSmith
+Tracing and evaluation for LLM applications, so you can answer why the system did what it did.
+Claude API
+One of the two model APIs you build against, compared on the same tasks rather than taught in isolation.
+OpenAI API
+The other. Knowing where each is stronger is part of the job, not brand loyalty.
+MCP
+The Model Context Protocol for connecting models to tools and data. It now appears by name in FDE job descriptions.
+AWS / GCP
+Cloud fundamentals for deploying, securing and monitoring what you build.
+Evaluation harness
+Golden datasets, LLM-as-judge and regression tests. The discipline that separates a demo from a system.
+Projects
+What you will build
+Every phase ends in something that runs. You finish with a portfolio you can demonstrate, not a list of topics covered.
+Tested Python ingestion CLI
+A command-line tool moving CSV data into PostgreSQL, with tests, submitted and reviewed as a pull request.
+Multi-source integration pipeline
+A scheduled pipeline pulling from three systems that do not agree with each other, with retries and failure recovery.
+RAG application with evaluation
+Retrieval over real documents, with chunking, reranking, grounding, citations and a measured accuracy suite.
+AI agent with tool use
+An agent that calls real tools, with human-in-the-loop checkpoints and full tracing of what it did and why.
+Production deployment
+Containerised, deployed through CI/CD, with authentication, secrets, monitoring and a security review.
+Live deployment capstone
+A four-week team engagement from discovery to handover, presented to an industry panel.
+Role Comparison
+Forward Deployed Engineer compared with adjacent roles
+None of these is a better career than the others. They suit different people, and the boundaries differ by company.
+RolePrimary focusCustomer contactOwns deploymentAI depth
+Forward Deployed EngineerOne customer, many capabilitiesConstant and directYesApplied
+Software EngineerOne capability, many customersUsually noneShared with platform teamsOptional
+AI EngineerBuilding AI features and applicationsOccasionalOftenDeep on applications
+ML EngineerModels and ML systems in productionOccasionalYes, for modelsDeep on modelling
+Solutions EngineerDesigning and demonstrating the fitConstant, pre-sales weightedRarelyConceptual
+Data ScientistAnalysis, experiments and insightInternal stakeholdersRarelyDeep on statistics
+AI Implementation EngineerDelivering AI into a customer settingFrequentYesApplied
+The two distinctions people get wrong most often: a solutions engineer rarely writes code on customer infrastructure, and a consultant delivers a recommendation rather than a running system. An FDE does both, and stays after the deal closes.
+Career Outcomes
+Roles this program prepares you for
+The program is built around forward deployed work. Job titles for that work vary between companies, and entry-level candidates usually arrive through an adjacent title first, then grow into full FDE responsibility with experience.
+Forward Deployed Engineer
+Associate Forward Deployed Engineer
+AI Implementation Engineer
+AI Solutions Engineer, or Solutions Engineer
+AI Delivery Engineer
+Applied AI Engineer, or AI Engineer
+Technical Consultant
+We do not promise that every graduate becomes a Forward Deployed Engineer. It is a role that rewards engineering experience, and many people reach it after a few years in one of the titles above. What this program gives you is the skill set and the portfolio evidence that the route requires.
+Career support included
+Resume and LinkedIn preparation for engineering roles
+Portfolio development, built from your phase deliverables
+Technical interview preparation and mock interviews
+Group discussions and career guidance
+We provide placement assistance and do not advertise placement guarantees. Ask for the latest placement report during counselling. See our placement process.
+Program Fee
+₹99,000Live Online
+Inclusive of 18% GST. Available across India.
+EMI available over 9 months.
+₹1,29,999Nagpur Classroom
+Inclusive of 18% GST. In person at our Nagpur centre.
+EMI available over 9 months.
+All six phases, including the team capstone
+Study material, project reviews and career services included
+EMI available via Bajaj Finance, Eduvanz or Akshar
+Scholarship eligibility assessed free during counselling: check here
+Enrolments are final once payment is made and the batch is confirmed. Please read the refund policy before paying, especially if you are using EMI.
+Next Batch
+16th November 2026. Seats per classroom batch are limited by room size, so ask an advisor about current availability.
+Talk to an Advisor
+Why learn this at Fireblaze AI School
+Small cohorts, and a mentor close enough to argue with. You defend your design every weekend, which is the part that transfers to the job.
+Fireblaze AI School was founded in Nagpur on 31 October 2017 and teaches Data Science, AI and Full Stack Development across three offline centres, alongside live online batches. It is a NASSCOM partner for its Post Graduate Program in Data Science & Analytics.
+The team at our Mate Square centre. See life at Fireblaze.
+Taught by practitioners
+Mentors are industry professionals with 10+ years of experience, working with the tools they teach. Meet the faculty.
+Project-first by default
+Every phase ends in a build that is reviewed, not a quiz. The same pedagogy behind our other programs.
+Honest about outcomes
+We publish alumni outcomes by name on our reviews page and do not advertise job guarantees.
+New to this field and not sure this is the right starting point? Compare it with our Post Graduate Program in Data Science & Analytics, our AI-Powered Data Science certification or our Artificial Intelligence course. If you need the underlying building blocks first, the Python, SQL and Machine Learning tracks are available on their own.
+Want to try the retrieval and agent material first?
+This program covers RAG and agents as part of a full career path. If you would rather learn just those, our self-paced RAG and Agentic AI courses are ₹1,999 each, with a graded project and a month of doubt support. They carry no placement assistance, so they complement this program rather than replace it.
+Browse Self-Paced Courses
+FAQ
+Frequently Asked Questions
+What is a Forward Deployed Engineer?
+A Forward Deployed Engineer (FDE) is a technical professional who works closely with customers or business teams to understand a real operational problem, then designs, builds, deploys and adapts a software or AI system to solve it inside that customer's environment. The role combines engineering, AI implementation, integration, deployment and direct customer communication.
+What does a Forward Deployed Engineer do day to day?
+They run a repeating loop: understand the problem with stakeholders, inspect the existing systems and data, design an architecture that fits the constraints, build the solution, deploy it into the real environment, then measure, debug and hand it over. Exact responsibilities vary between companies.
+Is this an AI engineering course?
+Yes, with a deployment focus. Phase 2 is eight weeks of AI application engineering covering LLM fundamentals, RAG, agents, tool use and evaluation. What makes it different from a general AI course is that Phases 3 to 5 then take that work into production, security and customer handover.
+How long is the Forward Deployed Engineer course?
+26 weeks, delivered on weekends and structured in six phases, ending with a four-week team capstone that runs a full deployment engagement from discovery to handover.
+What is the course fee?
+The live online cohort is ₹99,000 and the Nagpur classroom cohort is ₹1,29,999, both inclusive of 18% GST. EMI is available over 9 months on both cohorts. Both fees include all six phases, the capstone, study material, project reviews and career services.
+Is the course available online?
+Yes. The program runs as live, instructor-led weekend classes you can join from anywhere in India. These are real classes on a fixed schedule with live doubt-solving and the same weekly stakeholder presentation, not recordings. Online students do the same projects and capstone as the classroom cohort.
+Is the Forward Deployed Engineer course available in Nagpur?
+Yes. Classroom weekends run at Fireblaze AI School in Nagpur, where we have taught data and AI since 2017 across three centres: Mate Square, Nandanvan and Sadar. Ask an advisor which centre the next cohort runs at, since it varies by batch. Classroom batches run in Nagpur only; learners elsewhere join the live online cohort.
+Do I need programming experience to join?
+Yes. Working knowledge of at least one programming language is the minimum requirement. Python, basic SQL and some Git familiarity are preferred. This is not a beginner course, and if you are starting from zero we will tell you to do our Python course first.
+Do I need machine learning experience?
+No. Prior machine learning or Generative AI experience is not required. Phase 2 builds LLM and AI application skills from fundamentals. What you do need is the ability to write and debug code, because the program moves quickly from week one.
+Is this course suitable for working professionals?
+Yes, they are the primary audience. It is built for professionals with 1 to 8 years of experience in IT. The entire program runs on weekends across 26 weeks, and the live online option means you can attend from any city in India without relocating or commuting.
+Can freshers join the program?
+Technical graduates and final-year CS, IT or AI-DS students who already code can join. Be realistic about the destination though: Forward Deployed Engineer is usually not a first job title. Freshers typically enter through an adjacent role such as software engineer or AI implementation engineer and grow into full FDE responsibility.
+What projects will I build?
+A tested Python ingestion CLI, a scheduled pipeline across three heterogeneous sources, a RAG application with a real evaluation suite, an AI agent with tool use and tracing, a full production deployment with CI/CD and monitoring, and a four-week team capstone presented to an industry panel.
+What tools and technologies are covered?
+Python, FastAPI, PostgreSQL with pgvector, Qdrant, Docker, GitHub and GitHub Actions, Terraform, Airflow or Prefect, LangGraph, Langfuse and LangSmith, the Claude and OpenAI APIs, MCP, and cloud fundamentals on AWS or GCP. Each is taught in the context of a deployment problem rather than in isolation.
+What is the difference between an FDE and an AI Engineer?
+An AI Engineer usually builds AI features and applications for their own company's product. An FDE takes that technology into one customer's environment and makes it work there, which adds integration, deployment on someone else's infrastructure, and constant customer contact to the job.
+What is the difference between an FDE and a Solutions Engineer?
+Solutions engineers are typically pre-sales and rarely write code on customer infrastructure. Forward Deployed Engineers write and own production code inside the customer's environment, and stay involved after the deal closes. A role labelled FDE that does not involve owning production code is closer to pre-sales.
+Is placement guaranteed?
+No. We provide placement assistance and do not advertise placement guarantees. What is included is resume and LinkedIn preparation, portfolio development from your phase deliverables, technical interview preparation, mock interviews and career guidance. Ask for the latest placement report during counselling.
+How is this different from a Data Science course?
+A data science course centres on analysis, statistics and modelling. This program centres on shipping: integration, AI application engineering, deployment, security and customer delivery. If your goal is insight and models, look at our data science programs. If your goal is systems that run in production, this is the closer fit.
+How is this different from the Fireblaze PGP in Data Science and Analytics?
+The PGP is a broader 6-month foundation covering Excel, SQL, Power BI, Python, statistics, machine learning and Generative AI, and it assumes no coding background. This program assumes you already code, skips the analytics tooling, and goes deep on AI application engineering, deployment and customer-facing delivery instead.
+Is there a certificate?
+Yes. On successful completion, including the capstone and the attendance requirement, you receive a Fireblaze AI School certificate issued by Fireblaze Technologies Private Limited. The more useful output, and the one interviewers respond to, is the deployed portfolio you build across the six phases.
+What happens after I complete the program?
+You leave with a portfolio of deployed systems, an evaluated AI application, a capstone you have defended to an industry panel, and the interview preparation to talk about all of it. Career support continues through resume work, mock interviews and hiring-partner introductions.
+Next Step
+Talk to an Advisor
+Tell us where you are now and what you want to build. An advisor will walk you through the curriculum, the weekend schedule, the next batch date and whether this program is actually the right fit for your background.
+Free counselling and honest profile evaluation
+We will tell you if you should do Python or SQL first instead
+Transparent fee, EMI and scholarship discussion, no pressure tactics
+Online and Nagpur classroom options explained
+Prefer to ask quickly? Chat with Fireblaze on WhatsApp.
+NASSCOM Partner
+Since 2017
+Weekend format
+Online or Nagpur
+Fireblaze AI School
+Fireblaze AI School is a NASSCOM-partner AI education institute in Nagpur, founded on 31 October 2017, training students and professionals in Data Science, AI, and Full Stack Development across three offline centers.
+Ignite • Inspire • Innovate
+Email: info@fireblazeaischool.in
+Join the Fireblaze Learn app, a 10,000+ global tech community for learning, discussions, events and opportunities. Free and open to everyone.
+Get it onGoogle Play
+Programs
+PGP in Data Science & Analytics
+Full Stack Development (MERN)
+AI-Powered Data Analytics
+AI-Powered Data Science
+Forward Deployed Engineer Course
+AI Marketing Pro
+Self-Paced Courses
+Artificial Intelligence Course
+Python Course
+SQL Course
+Machine Learning Course
+Power BI Course
+Explore
+Placements
+Events & Workshops
+Community
+Industry Talks
+Life at Fireblaze
+Student Reviews
+Scholarships
+Corporate Training
+College Partnerships
+CampusX Ambassadors
+Hire From Us
+Careers
+Our Nagpur Centers
+Mate Square (Head Office)
+3rd Floor, Friends Colony 11, Pratap Nagar Main Rd, above Morghade Hardware, Mate Square, Kotwal Nagar, Pratap Nagar, Nagpur, Maharashtra 440022
+Phone: +91 94032 26952 • fn1@fireblazeaischool.in
+Mon–Sun, 10:00 AM – 8:00 PM
+Nandanvan
+3rd Floor, Jainam Villa, Plot No. S7, opp. KDK College Road, Darshan Colony, Nandanvan, Nagpur, Maharashtra 440009
+Phone: +91 85301 07029 • fn2@fireblazeaischool.in
+Mon–Sat, 10:00 AM – 7:00 PM
+Sadar
+3rd Floor, Kamptee Rd, above KTM Showroom, Tent Line, Mohan Nagar, Nagpur, Maharashtra 440001
+Phone: +91 94041 79952 • fn3@fireblazeaischool.in
+Mon–Sat, 10:00 AM – 7:00 PM
+© 2026 Fireblaze AI School, a unit of Fireblaze Technologies Private Limited. All rights reserved. Founded 31 October 2017.
+Editorial Policy
+Brand Guidelines
+Privacy Policy
+Terms and Conditions
+Refund Policy
+Sitemap
+☎ Call
+WhatsApp
+Book Counselling

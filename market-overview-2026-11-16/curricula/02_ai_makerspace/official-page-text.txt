@@ -1,0 +1,491 @@
+AI Makerspace
+Source: https://maven.com/aimakerspace/ai-fde-certification
+Downloaded: 16 November 2026
+Type: text extracted from the public program page, not a vendor PDF brochure.
+
+The Forward-Deployed Engineer: The AI FDE Certification by Dr. Greg Loughnane, Ph.D., Matthew Sharp, and Tyler Laughlin on Maven
+Maven for Business
+Teach on Maven
+Log In
+Courses
+Free lessons
+AI
+All courses inAI
+Agentic AI
+Coding with AI
+AI Workflows
+Claude Code
+OpenClaw
+Vibe Coding
+AI Evals
+AI Transformation
+RAG & Search
+MCP
+AI for PMs
+AI for Engineers
+AI for Designers
+AI for Marketers
+AI for Founders
+Product
+All courses inProduct
+AI for PMs
+Agentic AI
+AI Evals
+Vibe Coding
+Product Sense
+Product Discovery
+User Research
+Prototyping
+Growth
+Analytics
+Tech Foundations
+Strategy
+Influence
+Leadership
+Career Growth
+Engineering
+All courses inEngineering
+AI for Engineers
+Agentic AI
+Coding with AI
+Claude Code
+OpenClaw
+MCP
+RAG & Search
+AI Evals
+Machine Learning
+LLM Ops
+Context Eng
+Security
+System Design
+Leadership
+Career Growth
+Design
+All courses inDesign
+AI for Designers
+Agentic AI
+Vibe Coding
+Prototyping
+Figma
+Design Systems
+User Research
+Product Discovery
+UX
+UI
+Visual Design
+Design Strategy
+Influence
+Leadership
+Career Growth
+Marketing
+All courses inMarketing
+AI for Marketers
+Agentic AI
+Vibe Coding
+Automation
+Content Marketing
+Demand Gen
+Product Marketing
+Positioning
+Social Media
+Brand
+B2B Marketing
+SEO & AEO
+Strategy
+Leadership
+Leadership
+All courses inLeadership
+AI for Leaders
+Agentic AI
+AI Transformation
+AI Governance
+Communication
+Influence
+Strategy
+Management
+People Operations
+Exec Presence
+Storytelling
+Goal-setting
+Personal Brand
+Career Growth
+GTM
+All courses inGTM
+AI for GTM
+Agentic AI
+Sales
+Positioning
+B2B
+Growth
+Communication
+Customer Success
+GTM Engineering
+Strategy
+Leadership
+More
+All courses inMore
+Everyone
+Founders
+Operators
+Data Scientists
+Business Analysts
+User Researchers
+Customer Success
+Project Managers
+HR Professionals
+Sales People
+Lawyers
+Finance
+Investors
+Real Estate
+Educators
+Creators
+The Forward-Deployed Engineer: The AI FDE Certification
+Overview
+Instructors
+Syllabus
+Reviews
+Free resources
+FAQs
+Maven for Teams
+Course
+The Forward-Deployed Engineer: The AI FDE Certification
+4.6 (21)
+Dr. Greg Loughnane, Ph.D.
+Author, The AI Engineering Bootcamp Book
+Matthew Sharp
+Author, LLMs in Production
++ Tyler Laughlin
+View Syllabus
+Live Cohort
+$5,250
+USD
+Learn live alongside a cohort of peers
+Jan 26—Apr 9, 2027
+Apply
+Apply
+Maven for Teams  •  Save 20%+
+Get course updates
+By continuing, you agree to Maven's Terms and Privacy Policy.
+Covered by the Maven Guarantee
+The industry-standard certification for production AI FDEs.
+The authors of The AI Engineering Bootcamp Book teamed up with the authors of LLMs in Production to produce this advanced, comprehensive, one-of-a-kind course spanning Q1 2027.
+To compete with AI Forward Deployed Engineers at leading AI labs like Anthropic and OpenAI, you need to scope customer problems, build and test AI prototypes with users, deploy prototypes to existing production environments, and secure, operate, and improve production applications at scale that generate real ROI.
+This course is for you if:
+You truly believe that you can be a unicorn AI FDE, or
+You're part of an FDE team of 2-3 people taking the course, and
+You have direct support from your company or client to access users, engage with stakeholders, and drive one project from pilot to production in 10 weeks
+This course is NOT for you if:
+You do not work at a company, or
+You work at a company, but they do not support you  driving AI transformation
+If you're too early in your AI career journey for this course, check out The AI Engineering Bootcamp as a first step.
+What you’ll learn
+The skills you need to succeed as an AI Forward Deployed Engineer in production environments.
+Scope problems & their solutions better than Anthropic & OpenAI FDEs
+Learn to ask the right questions and guide your organization through prioritization and problem scoping
+Learn to move from MVP to PoC to production, and understand the right tools & techniques to get you there
+Bring the fundamentally valuable token-minimization mindset to your company's leadership table
+Apply best-practices from MVP to production
+Learn to implement the right retrieval technique and when, from LLM Wikis to dense vector embedding RAG
+Understand tradeoffs between tools, skills, MCPs, subagents, code mode, Universal Tool Calling Protocol (UTCP)
+Learn to install guardrails at the right layer of your agentic systems
+Understand why open weights matter and how to use them
+Run local OSS models aligned with your enterprise hardware
+Bypass sensitive and private data restrictions with local synthetic data generation
+Use best-practice tools to choose, host, and run local models
+Embrace evals as the language that connects business to engineering
+Understand how to answer the question "How do we know that this works and we can trust it?"
+Go beyond simple vibe checks and evals with "What if?" scenarios that align directly with your business
+Understand how to evaluate your agents systematically, no matter how they have been structured
+Understand why security and adversarial techniques are first-class issues
+Learn to enhance your own prompt injections through well-known prompt optimization techniques
+Understand how Hugging Face got reward-hacked by OpenAI; learn advanced techniques like context bombs
+Understand enterprise threats that cannot be solved with root-level access
+Understand scaling and what it takes from product and engineering perspectives
+Learn to be guided by wherever the bottleneck is in product development, not by what you like doing better
+Understand the importance of removing features rather than adding features as you scale
+Build solutions with performance, scalability, and security that are enough for your current user base
+Learn directly from expert instructors
+Dr. Greg Loughnane, Ph.D.
+Dr. Greg Loughnane, Ph.D.
+Building industry-leading AI training for engineers and teams since 2021
+Dr. Greg Loughnane is the Founder & CEO of AI Makerspace, where he builds custom training programs for engineering and data science teams at mid-market and enterprise companies.
+Since 2021, he's built industry-leading bootcamps for individual learners on topics including Machine Learning Engineering (2021-2022), MLOps (2021-2023), AI for Business Leaders (2022), LLM Ops (2023), LLM Engineering (2024), AI Engineering (2024-2026), and Forward Deployed Engineering (2026-)
+Previously, he served as an AI product manager, university professor, consultant, advisor, and researcher. He loves trail running, wrenching on cars, and is based in Columbus, Ohio.
+Career highlights
+(2023+) Launched AI Makerspace
+(2021-'23) Head of Product & Curriculum & Instructor delivering live, online bootcamps within Andrew Ng's AI Fund company FourthBrain
+(2021-'23) Worked with Deeplearning.ai to moderate and deliver ML Engineering & MLOps training content
+(2016-'18) Led NASA projects to bring open-source metal laser 3D printers and sensor technologies to market.
+(2011-'21) Taught university courses in Mechanical, Materials, and Manufacturing Engineering, Math & Entrepreneurship
+More about Greg
+Matthew Sharp
+Matthew Sharp
+Matt Sharp is a seasoned leader and professor in AI, MLOps and Engineering.
+"My friends call me Mr. Security."
+Matt has led many successful data initiatives for both startups and large tech companies alike. He specializes in deploying, managing, and scaling machine learning and generative AI models in production, regardless of what that production setting looks like.
+Local AI is a hobby of Matt's. He's been doing personal projects for a long time, from building a game in a past AI Makerspace course, to a StarCraft bot, and to creating a translation app so he could communicate with his in-laws better.
+Matt is from Lehi, Utah, has a degree in Chemical Engineering from BYU.
+More about Matthew
+Tyler Laughlin
+Tyler Laughlin
+A background in BI, data science, machine learning, and cloud-native apps.
+Tyler Laughlin is an Information Systems Engineer at Adobe with a background in business intelligence, data science, machine learning, and cloud-native application development. He has worked across analytics and engineering at Adobe and has developed hands-on expertise in Python, machine learning, LLM applications, and LLMOps. Tyler is also an active member of the AI Makerspace community, where he has participated as a learner, teaching assistant, and contributor to AI engineering projects and hackathons.
+More about Tyler
+See all products from AI Makerspace
+Who this course is for
+Engineers working full-time inside a company that are prepared to bring a real use case from work and iterate on the AI solution weekly.
+If you are a startup founder, consultant, big tech employee, or currently unemployed, this course is likely NOT for you.
+If you are unable to get sponsorship from your company to take this course, this course is likely NOT for you.
+Prerequisites
+Git & Python mastery, Coding Agent (e.g., Claude Code or Codex) proficiency
+VSCode with GitHub Copilot (or equivalent) should be your daily driver already.
+Experience writing code that is deployed to production software environments
+If you have never held a job where you contribute code to a production software environment, this class is not for you.
+Machine Learning & Deep Learning fundamentals
+This means an understanding of training, testing, and inference for various model architectures, including LLMs
+What's included
+Live sessions
+Learn directly from your instructors in a real-time, interactive format.
+Access to world-class experts & personalized feedback
+In addition to being hosted by Dr. Greg, you will be taught in our lectures by world-class experts who do this work every day. Within breakout rooms, you will be guided by peer supporters who are on similar journeys to master the role of AI FDE. For each assignment, your peer supporter will provide personalized feedback
+The AI FDE Certification
+Join hundreds who have created real ROI for themselves and their companies through an AI Makerspace certification
+Maven Guarantee
+Your purchase is backed by the Maven Guarantee.
+Course syllabus
+20 live sessions • 10 projects
+Live sessions
+4 hrs / week
+We hold class every Tuesday and Thursday at 7-9 PM ET. We always respect every minute of your time.
+Weekly Projects
+2-20 hrs / week
+Weekly projects can be time-consuming depending on your background. However, the course is designed to align closely with the work you're doing weekly for your day job.
+Week 1
+Jan 26—Jan 31
+☯️ Neither product nor engineering alone is enough
+Jan
+12
+🏢 Enterprise Dev Environment
+Tue 1/127:00 PM—8:30 PM (EST)
+Jan
+14
+☯️ The Craft of AI Consulting
+Thu 1/147:00 PM—8:30 PM (EST)
+✍️
+Technical Challenge 1: Build and containerize an LLM application
+Submit by Feb 3
+1 more item
+Week 2
+Feb 1—Feb 7
+🏋️ Why open weights matter and what that means for FDEs
+Jan
+19
+🏋️ Local Inference
+Tue 1/197:00 PM—8:30 PM (EST)
+Jan
+21
+🧪 Synthetic Data for Prototyping
+Thu 1/217:00 PM—8:30 PM (EST)
+✍️
+Technical Challenge 2: Generate synthetic data for prototyping and backtesting
+Submit by Feb 10
+1 more item
+Show full syllabus
+Week 3
+Feb 8—Feb 14
+🔍 Retrieval vs. agentic search variants
+Jan
+26
+🔍Agentic Search & Retrieval
+Tue 1/267:00 PM—8:30 PM (EST)
+Jan
+28
+🖼️ Multimodal RAG
+Thu 1/287:00 PM—8:30 PM (EST)
+✍️
+Technical Challenge 3: Implement MVP using appropriate retriever
+Submit by Feb 17
+1 more item
+Week 4
+Feb 15—Feb 21
+📊 Evals and the path to PoC
+Feb
+2
+📊 Practical Evals
+Tue 2/27:00 PM—8:30 PM (EST)
+Feb
+4
+👩‍🚀 Agent Evals via Simulation
+Thu 2/47:00 PM—8:30 PM (EST)
+✍️
+Technical Challenge 4: Prepare 5-minute demo; problem, solution, and evals
+Submit by Feb 24
+1 more item
+Week 5
+Feb 22—Feb 28
+🧑‍💻 Demos with client-style critiques and agent architecture decisions
+Feb
+9
+🤩 Demo Day
+Tue 2/97:00 PM—8:30 PM (EST)
+Feb
+11
+🧰 Agent Architecture
+Thu 2/117:00 PM—8:30 PM (EST)
+✍️
+Technical Challenge 5: Refine demo & clarify agent architecture selection
+Submit by Mar 3
+1 more item
+Week 6
+Mar 1—Mar 7
+🛤️ Guardrails & adversaries
+Feb
+16
+🛡️ Guardrails
+Tue 2/167:00 PM—8:30 PM (EST)
+Feb
+18
+💉 Prompt Injection
+Thu 2/187:00 PM—8:30 PM (EST)
+✍️
+Technical Challenge 6: Exploit your app; then eliminate the vulnerability
+Submit by Mar 10
+1 more item
+Week 7
+Mar 8—Mar 14
+🧠 Memory & harness engineering for long-running agents
+Feb
+23
+🧠 Agent Memory
+Tue 2/237:00 PM—8:30 PM (EST)
+Feb
+25
+📋 Spec-Driven Development
+Thu 2/257:00 PM—8:30 PM (EST)
+✍️
+Technical Challenge 7: Implement agent memory and associated evals for your app
+Submit by Mar 17
+1 more item
+Week 8
+Mar 15—Mar 21
+Happy Thanksgiving!
+0 items
+Week 9
+Mar 22—Mar 28
+⚖️ Fine-Tuning your LLMs and product
+Mar
+9
+📉 Fine-Tuning
+Tue 3/97:00 PM—8:30 PM (EST)
+Mar
+11
+🎙️ Voice Capability
+Thu 3/117:00 PM—8:30 PM (EST)
+✍️
+Technical Challenge 8: Replace closed source models with fine-tuned, OSS models
+Submit by Mar 31
+1 more item
+Week 10
+Mar 29—Apr 4
+🏗️ Infra, DevOps, MLOps, and deploying to someone else’s ecosystem
+Mar
+15
+📦 Container to Cluster
+Mon 3/157:00 PM—8:30 PM (EDT)
+Mar
+18
+🏗️ Deployment Ecosystem
+Thu 3/187:00 PM—8:30 PM (EDT)
+✍️
+Technical Challenge 9: Complete “someone else’s ecosystem” for your company
+Submit by Apr 7
+1 more item
+Week 11
+Apr 5—Apr 9
+🏭 Production, or getting the AI inside of the company
+Mar
+23
+🔭 Observability
+Tue 3/237:00 PM—8:30 PM (EDT)
+Mar
+25
+💼 Final Client Pitch
+Thu 3/257:00 PM—8:30 PM (EDT)
+✍️
+Technical Challenge 10: Create and send out a final client report to stakeholder
+Submit by Apr 14
+1 more item
+Testimonials
+I joined AI Makerspace while looking to start my company, Publicus, and it’s also where I met my co-founder Joe. What amazed me was how inclusive the community is technical folks, researchers, and even non-developers and yet everyone still built, shipped, and shared real projects. The program completely reshaped how I use open-source tools and ship to production fast. I still rely on the teachings from [AI Makerspace] today. RAGAS and Evol-Instruct were game-changing takeaways that I now use to reduce hallucinations and build more reliable AI systems. It’s genuinely the best community for people who want to build real things in the real world
+🔗 Hear Akash's Story
+Akash Shetty
+Co-Founder & CTO @ Publicus
+The Aithon journey started out of [The AI Engineering Bootcamp, Cohort 4]. A year later, the project idea has morphed into an AI-native GTM platform for regulated financial services. We are helping large Fintechs grow and expand their presence in enterprise financial services accounts. We combine external public and proprietary signals with customer’s first party data to spot whitespace and drive expansion across financial services enterprise accounts.
+🔗 Hear Nitin's Story
+Nitin Gupta
+Co-Founder & CEO @ Aithon
+What you guys have built is insane! On a totally different plane than [other courses]. So many cool, high-energy people in one place. Plus, you guys have made it feel like a dev bootcamp some people pay $8k to $16k for!
+Eric Riddoch
+Course Creator @ MLOps Club
+The AI Engineer Onramp
+If you're just starting on your AI Engineering journey, start here: https://bit.ly/aie-onramp
+LLM Engineering
+If you need help understanding how LLMs work, start here:  https://bit.ly/llme
+Strengthen Your Enterprise's AI Capability
+See how we can build, ship, and share. With you, a team, or an enterprise: http://bit.ly/4h3SFhb
+Frequently asked questions
+Are all live sessions recorded?
+Yes! You can easily catch up asynchronously on the course if you need to miss a class or two, or if you're in a timezone that makes attending class live very difficult.
+I work full-time, what is the expected time commitment?
+This course is designed for people with full-time jobs, but it is a tough bootcamp. We recommend that if you do not have at least 10 hours per week on average to dedicate to the course, then you should wait until a cohort that you can commit to.
+What compute costs will I have to pay in addition to the bootcamp fee?
+While we are open-source first, you will have to pay for some tooling.
+Set up $50 in OpenAI credits during the first week.
+Set LangSmith Deployment (*Requires $30-40/month)
+Set up remote model hosting servers (*Requires ~$50 for credits).
+Rent a GPU compute for fine-tuning via Google Colab ($20)
+Our recommended budget is ~ $100-250 total
+Do I need a GPU?
+No. While we highly recommend having a computer capable of running open-source LLMs of a reasonable size on appropriate hardware, LLMs can run (albeit very slowly) on CPU with enough memory, and you can rent what you need for fine-tuning.
+Specifically, a Macbook with integrated memory and at least 16 GB of RAM (32 is better!) is recommended.
+What is your deferral policy?
+TL;DR referrals don't help people who take our intense bootcamp courses based on years of data.
+But life does happen, and we're here to support you're journey in the long run. Please read more about our deferral policy here. Contact greg@aimakerspace.io for more info!
+Do you offer any discounts?
+Please check out The AI Engineer Certification Discount Policy for more information!
+What's the refund policy?
+Your purchase is backed by the Maven Guarantee.
+Maven for Teams
+Reimbursement
+Get your company to pay
+Everything L&D needs: email template, receipts, and certificate of completion.
+Get reimbursed
+Private cohort
+Run a cohort for your org
+A dedicated cohort with a custom schedule and curriculum, tailored to your team.
+Book a private cohort
+Be the first to know what’s new on Maven
+By continuing, you agree to Maven's Terms and Privacy Policy.
+Contact support: support@maven.com
+Learn
+Courses
+Free lessons
+Maven for Business
+Expense a course
+Teach
+Teach on Maven
+Instructor resources
+Maven
+About us
+Careers
+Help center
+Privacy policy
+Terms of service
+© 2026 Maven Learning, Inc.
+$5,250
+USD
+4.6 (21)
+·
+Jan 26—Apr 9
+Apply

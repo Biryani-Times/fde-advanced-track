@@ -1,0 +1,545 @@
+FDE Academy
+Source: https://fde.academy/
+Downloaded: 16 November 2026
+Type: text extracted from the public program page, not a vendor PDF brochure.
+
+Become an AI Forward Deployed Engineer | 8-Month FDE Program
+Claim your free 15-min Career consultation now
+Get a quick consultation and boost your chances of landing top FDE roles with Futurense FDE Academy.
+info@fde.academy
++91 9217395923
+WhatsApp us
+WhatsApp us
+Scan the QR Code to chat with our staff via your smartphone.
+or chat via desktop
+Download Brochure
+Full Name
+Email
+DegreeSelect one...B.Tech/M.TechBSc/MScBCA/MCAOther
+Graduation Year
+Phone Number
+Send OTP
+Enter OTP(OTP sent. Check your Phone)
+* Verify your phone number before submitting. Click on 'Send OTP' button and Verify first.
+Resend OTP
+* Verify your phone number before submitting. Click on 'Send OTP' button and Verify first.
+Thank you! Your submission has been received!
+Oops! Something went wrong while submitting the form.
+Download FDE Jobs Report
+Full Name
+Email
+Company Name
+Phone Number
+Send OTP
+Enter OTP(OTP sent. Check your Phone)
+* Verify your phone number before submitting. Click on 'Send OTP' button and Verify first.
+Resend OTP
+* Verify your phone number before submitting. Click on 'Send OTP' button and Verify first.
+Thank you! Your submission has been received!
+Oops! Something went wrong while submitting the form.
+Apply Now
+Home
+01
+Blog & Insights
+02
+Hire From Us
+03
+Featured In
+04
+Download FDE Jobs Report
+Apply Now -->
+Download FDE Jobs Report
+Apply Now -->
+FDE Course: Become a Forward Deployed Engineer in 8 Months
+PGP in Forward Deployed Engineering (FDE) & Applied AI Solutions
+Be One Of India's First Forward Deployed Engineers
+Download BrochureDownload FDE Jobs Report
+⁠8
+Months
+4.7%
+Acceptance rate
+Built by FDEs and Industry leaders
+Next Cohort Start Date: 14th December, 2026
+Full Name
+Email
+DegreeSelect one...B.Tech/M.TechBSc/MScBCA/MCAOther
+Graduation Year
+Designation
+Phone Number
+Send OTP
+Enter OTP(OTP sent. Check your Phone)
+* Verify your phone number before submitting. Click on 'Send OTP' button and Verify first.
+Resend OTP
+* Verify your phone number before submitting. Click on 'Send OTP' button and Verify first.
+Thank you! Your submission has been received!
+Oops! Something went wrong while submitting the form.
+APPLICATIONS OPEN NOW
+The demand for this role is Exploding
+1000%+
+A role most engineers haven't heard of, and one of the fastest-growing in tech in 2026
+AI Startups Have A New Secret Weapon: FDEs
+Hiring FDEs To Work Directly With Customers And Tailor AI Tools To Real-World Use Cases.
+The new hot job in Al: forward deployed engineers
+Job postings for forward-deployed engineers increased by more than 800% in 2025.
+FDE Model is Gaining Momentum
+The FDE model is rapidly gaining momentum as organisations look to fast-track AI integration and adoption by embedding engineering talent directly with client teams.
+Who is a Forward Deployed Engineer?
+A Forward Deployed Engineer sits inside the client's business and does two jobs at once: the consultant's job of finding and framing the real problem, and the engineer's job of building and running the system that solves it.
+Understand How The FDE Work Cycle Operates
+Bridging business needs and AI execution.
+01
+Understand the Business Reality
+Start by understanding how the business actually operates, not just the stated requirement.
+02
+Define the Right Problem
+Translate business pain into a clear, solvable problem worth using AI for now.
+03
+Design the AI Approach
+Decide what AI should do, what data it will use, and how success will be measured.
+04
+Build Within Real Constraints
+Develop solutions that fit existing data, systems, security, and infrastructure.
+05
+Deploy Into Production
+Ship working AI into live environments where real users depend on it.
+06
+Own Outcomes and Improve
+Monitor performance, fix failures, and continuously improve based on real usage.
+70% AI pilots are failing
+and FDEs are the answer to bridge this gap
+Join one of India's first structured pathways to become a Forward Deployed Engineer.
+Built and taught by real FDEs who deploy AI systems in the real world.
+00:00
+/
+00:00
+The Rarest Hire In AI.
+The First Program Built For Them.
+Earned, Not Enrolled
+Admission is selective. The cohort is
+capped at 80 seats and built around
+readiness, not applications received.
+Ever Evolving Curriculum
+The syllabus tracks how AI delivery work is actually changing, not a fixed catalogue to the Curriculum evolves with market demands and updates
+Pods, Precisely Curated
+You're grouped by experience, industry, and technical depth. Every pod is curated to stretch how you think.
+Real Briefs. Real Constraints. Nothing Simulated
+Real deployments from Stripe, Salesforce, Razorpay, and more*.
+How You Will Learn With The
+FDE Academy Method
+01
+Practitioner-Designed Learning
+Curriculum and frameworks shaped by people who have deployed AI in real organizations.
+02
+Mentorship from FDEs and Senior AI Leaders
+Guidance, reviews, and perspective from experienced Forward Deployed Engineers and AI leaders.
+03
+Learn → Apply → Build Loop (FDE LabTM)
+Concepts move immediately into real scenarios and full system builds.
+04
+Agile, Sprint-Based Execution
+Structured sprints with clear goals, reviews, and iteration… not passive learning.
+05
+Framework-First, Tool-Agnostic
+Master 10+ proprietary FDE frameworks before applying 30+ GenAI tools in context.
+06
+Hiring-Grade Portfolio Output
+Deployed systems, case narratives, and architecture walkthroughs built for interviews.
+The blocks that structure your learning
+Technical
+Capability
+Consulting
+Capability
+32 Week Curriculum
+four connected phases and an end-to-end capstone
+Curriculum
+32 weeks: from a clear problem to a working system
+The curriculum builds in phases. Each phase returns to the same delivery questions with more demanding constraints, so nothing is learned once and forgotten.
+Phase 1: Foundations
+Weeks 1–4
+Technical Track
+Consulting Track
+Python, Git, workflows, modern AI tooling
+Understanding the business problem
+Prompting patterns and APIs
+Asking better questions
+Basic system design
+Framing a testable AI use case
+You Produce
+A first working AI tool, a clear problem statement, and an initial solution outline.
+Phase 2: Core Build (IIT Modules)
+Weeks 5–12
+Technical Track
+Consulting Track
+LLM applications and workflows
+Requirement discovery
+Context engineering and RAG foundations
+PRDs and solution design documents
+Early evaluation, reliability, and application-layer patterns
+Communicating scope, choices, and trade-offs
+You Produce
+A deployable AI system, an architecture view, and a record of key design decisions.
+Phase 3: Deployment Depth
+Weeks 13–20
+Technical Track
+Consulting Track
+Advanced retrieval and RAG
+Stakeholder alignment
+Evaluation, monitoring, and iteration
+Delivery planning and iteration cycles
+Scale, reliability, and security failure handling
+Managing feedback, scope change, and competing constraints
+You Produce
+A production-oriented system, deployment-ready documentation, and a clear ownership narrative.
+Phase 4: Capstone & Mastery
+Weeks 21–32
+Technical Track
+Consulting Track
+MCP tools, policies, and production deployment
+End-to-end engagement simulation
+Multi-agent design
+Case study writing
+An SLM you train and serve yourself
+Capstone presentation rehearsal
+You Produce
+Two full projects, five written case studies, a portfolio narrative, and a capstone system demoed live to the evaluation panel.
+THE COHORT
+The top 4% you'll be joining
+SENIORITY LEVEL
+AVERAGE EXPERIENCE
+Companies they represent
+Built & Taught By Real FDEs
+Vinay Kumar
+QuickCURD
+FDE & CTO
+Aditya Goswami
+Bluecore
+Forward Deployed Engineer
+Saksham Singhal
+Hacker Rank
+Forward Deployed Engineer
+Mohm. Rashid Raza
+Adobe
+Forward Deployed Engineer
+Imtiaz Ahamed
+HighRadius
+Forward Deployed Engineer
+Ishank Sharma
+Prentis AI
+Forward Deployed Engineer
+Mariya Baig
+Bluecore
+Forward Deployed Engineer
+Apoorv Dubey
+Echos
+Forward Deployed AI Engineer
+Animesh Das
+realfast
+Forward Deployed Engineer
+Saurabh Ranjan
+Shadgunya Technology
+Forward Deployed Engineer
+Prajna Vegesna
+Sarvam
+Forward Deployed Engineer
+Poojitha Rachuri
+Confido Health
+Forward Deployed Engineer
+Deepanshu Goel
+Heizen
+Forward Deployed Engineer
+Gourav Kushwaha
+PromptQL
+Lead FDE
+Rushikesh Akhare
+Luminai
+Lead FDE
+Mentored By AI Industry Leaders
+Anindo Chakraborty
+Vodafone
+Executive Vice President AI/ML
+Bhairav Mehta
+JPMorgan Chase
+Head of AI and ML
+Satish Padmanabhan
+Standard Chartered
+Change and Strategy Leader - Data Product Ownership and Risk
+Madhurima Agarwal
+Microsoft
+Managing Director - Microsoft for Startups, India
+Deepa Mahesh
+Tech Mahindra
+Head - Analytics, BPS
+Praveen Sathyadev
+Course5i
+Head - EU/UK Business Growth (VP), Analytics, Insights and AI
+Ashish Dabas
+Capital One
+Vice President
+Arvind Balasundram
+Regeneron
+Executive Director, Commercial Insights & Analytics
+Saurabh Kumar
+Lowe's India
+Director - Data Engineering
+Pankaj Srivastava
+PwC
+Partner
+Aditya Khandekar
+Corridor Platforms
+President
+Shrisha Ray
+Thomson Reuters
+Director of Engineering
+Nitin Srivastava
+Dr. Martens
+Global Head of Data and Analytics
+Kaushik Das
+Catalyst Brands India
+VP & Managing Director
+Alok Tiwari
+Junglee Games
+Director of Analytics
+Divesh Singla
+Veradigm
+Vice President Operations
+Biju Kalleppilli
+SAP Labs India
+Senior Director of Engineering
+Vidhi Chugh
+All About Scale
+Head of AI
+Nishant Chandra
+Microsoft
+Industry Copilot Leader and Head
+Ruchika Singh
+Spotify
+Director, Data Science & Insights
+Krithika Muthukrishnan
+Scripbox
+Reliance Enterprise Intelligence
+Tushar Sahu
+Google
+Director Engineering
+Vishal Nagpal
+Best Buy
+Director of Data and AI
+Anirban Nandi
+Albertsons Companies India
+Vice President, AI and Data
+Swati Jain
+Deloitte
+Partner - Digital, AI & Analytics
+Madhu Hosadurga
+Schneider Electric
+Global Vice President, Enterprise AI
+Nithya Subramanian
+Best Buy
+Senior Director, Data and AI COE
+Pankaj Rai
+Aditya Birla Management Corp
+Group Chief Data and Analytics Officer
+Muthumari S
+Brillio
+Global Head of Data & AI Studio
+Ankit Mogra
+Ather Energy
+Director - Insights & Analytics
+Anand Das
+TVS Motor Company
+Chief Digital & AI Officer
+FDE Lab is the proprietary learning system behind the FDE Academy.
+Learn →Apply →Build
+LEARN:
+30+ GenAI Tools & Production Patterns
+Agentic Orchestration
+LangGraph, CrewAI, Semantic Kernel
+Advanced Prompting
+Chain-of-thought, ReAct, DSPy
+Deployment Stack
+Modal, Replicate, Together AI, BentoML
+Vector Search
+Pinecone, Weaviate, Qdrant
+LLM Operations
+LangSmith, Helicone, Weights & Biases
+Safety & Guardrails
+NeMo Guardrails, PII detection
+AIDD
+Learn AI-Driven Development and build autonomous AI agents to write, test, and maintain code bases.
+aSDLC
+Operate in Agentic Software Development Lifecycle, used in top enterprises
+APPLY:
+Real Company Case Studies
+Stripe
+Payment Fraud Detection Build real-time ML pipeline. 100ms latency requirement.
+Salesforce
+CRM Auto-Enrichment Extract company data from web sources and calls.
+Freshworks
+Ticket Intelligence Route 100K monthly tickets. Multi-language support.
+Postman
+API Documentation Generator Analyze endpoints, generate docs, create test cases.
+Razorpay
+Transaction reconciliation match 3M transactions across bank statements.
+Notion
+Workspace intelligence Q&A over docs, meeting summaries, action tracking.
+Hopscotch
+API Testing Copilot
+Auto-generate test suites from API specs. Detect breaking changes before deploy.
+MakeMyTrip
+Dynamic Pricing Engine
+Predict fare fluctuations across 500K+ routes. Real-time inventory sync across airlines and hotels.
+BUILD:
+Production-Grade Deployments
+Perplexity Research Engine
+Multi-step research, source validation, citations Stack: Claude Opus, Firecrawl, Pinecone
+Intercom Support Automation
+Ticket routing, sentiment analysis, 15+ languages Stack: GPT-4o, Semantic Router, Qdrant
+Cursor Code Assistant
+Context-aware completions, PR reviews Stack: Codestral, Continue.dev, Ollama
+Stripe Webhook Infrastructure
+10K events/sec with retries, idempotency Stack: Inngest, Trigger.dev, Upstash
+The Founding Summit
+Where the first generation of FDEs comes together on a two day retreat in Goa and Exchange real-world insights on deploying AI in production
+This is designed as a high-signal gathering, focused on thinking, building, and connection
+What happens at the retreat Conversations with AI thought leaders, senior practitioners, and builders
+The Market Told Us
+What's Missing
+We partnered with AIM Research to ask top tech companies what they need, want, and can't find. Here's a snapshot of what came back.
+Download FDE Jobs Report
+CAREER PATHWAYS
+Eligible Roles & Salary Range
+Forward Deployed Engineer
+IN
+₹32 LPA – ₹1.55 Cr+
+GL
+$220k – $380k
+Senior Forward Deployed Engineer
+IN
+₹88 LPA – ₹1.55 Cr+
+GL
+$350k – $600k+
+Applied AI Engineer (Production)
+IN
+₹22 LPA – ₹75 LPA+
+GL
+$180k – $320k
+Senior Applied AI Engineer
+IN
+₹55 LPA – ₹75 LPA+
+GL
+$350k – $550k
+AI Solutions Engineer / GenAI Architect
+IN
+₹26 LPA – ₹98 LPA+
+GL
+$250k – $450k+
+AI Systems Lead / Staff Engineer
+IN
+₹28 LPA – ₹1.25 Cr+
+GL
+$450k – $750k+
+(Indicative ranges. India figures reflect AIM Research, September 2026. Global figures are indicative market ranges. Actual compensation varies by experience, company, and geography.)
+Career Acceleration, Backed by Futurense
+Helping you transition into high-impact Forward Deployed and Applied AI roles.
+Remote Opportunities
+Palantir
+Open AI
+Databricks
+Adobe
+Palantir
+Open AI
+Databricks
+Adobe
+India Opportunities
+4.7%
+Admission Process
+This program is selective. Great learning comes from great peers. We choose individuals who raise the standard for themselves and for the room.
+Request a Callback
+1
+Application
+(Screening)
+2
+Proficiency Test
+(Online)
+3
+Interview Prep
+(Post-Test)
+4
+Technical + Consulting Interview
+(Up to 1 hour)
+5
+FDE Board Decision
+(Final)
+Eligibility
+4-Year Degree with Maths
+AI/ML Foundations (via coursework, certification, or projects)
+Cloud Exposure (AWS /GCP /Azure certification or deployed project)
+2+ Years Technical Experience (or exceptional fresher)
+Clear Technical Communication (can explain concepts to non-technical audiences)
+Strong Python or SQL (numpy, pandas, or strong coding ability)
+IIT Certification Add-on
+Academic depth, built into the FDE Academy journey
+FDE Academy offers learning in association with leading IITs, globally renowned institutions driving excellence in engineering, technology, and innovation.
+Live sessions by IIT professors
+Structured Academic Curriculum (Week 1-12)
+Optional Campus Immersion
+Independent Certification : FDE Academy + IIT
+Frequently Asked Questions
+We know you might have some questions before getting started in our platform.
+Why is Forward Deployed Engineering becoming important?
+As companies move from AI experimentation to production, they need engineers who can connect technical solutions with real business problems. Forward Deployed Engineers help bridge this gap by owning AI implementation and outcomes in real-world environments. Their work helps organizations turn AI capabilities into solutions that can be used within actual business workflows.
+What is a Forward Deployed Engineer course?
+A Forward Deployed Engineer course teaches the technical, problem-solving, and deployment skills needed to work on real-world AI systems. FDE Academy combines structured learning, FDE Labs, case studies, mentorship, and production-focused projects. The goal is to help learners develop practical skills that can be applied beyond a traditional classroom or online course.
+What projects will I work on during the FDE program?
+Learners work on realistic company case studies and simulations that reflect the challenges involved in deploying AI systems. The projects focus on building practical, production-grade solutions rather than only completing theoretical assignments. Learners also get experience working through constraints that can arise when AI systems are applied to real business problems.
+Who is eligible for the FDE Academy program?
+The program is designed for professionals with a technical background, including software engineers, AI/ML practitioners, data scientists, and platform or infrastructure professionals. Applicants generally need a four-year degree with mathematics, technical experience or an exceptional fresher profile, and a foundation in Python or SQL. Cloud exposure, AI/ML foundations, and clear technical communication are also part of the expected background.
+Does the FDE program include IIT certification?
+FDE Academy offers an optional IIT Certification Add-On alongside its FDE Academy certification. The add-on includes structured academic learning and live sessions with IIT professors, subject to the applicable program structure. Learners can therefore combine practitioner-led FDE training with an additional academic certification pathway.
+What career opportunities can FDE skills lead to?
+FDE skills can support career paths across Forward Deployed Engineering, Applied AI Engineering, AI Solutions Engineering, GenAI architecture, and AI systems roles. The program is designed around practical skills that can be applied to real-world AI and production environments. The specific career path can vary based on a learner’s experience, technical strengths, and areas of specialization.
+What is the salary of a Forward Deployed Engineer?
+Forward Deployed Engineer compensation varies based on experience, company, geography, and role responsibilities. FDE Academy provides indicative salary ranges for FDE and related AI engineering roles across India and global markets. These ranges are intended as market indicators, and actual compensation can vary significantly between individual roles and organizations.
+Become One of India’s First Forward Deployed Engineer
+The world is hiring and this Academy prepares you for it.
+Apply Now
+FDE Course : UpSkill in 32 Weeks
+FDE Academy's Forward Deployed Engineer course is an 8-month, 32-week postgraduate program for engineers who want to build and ship AI systems inside real customer environments. The next cohort starts on 14th December 2026. The cohort is capped at 80 seats, with a 4.7% acceptance rate, and every learner is selected through a proficiency test and a technical plus consulting interview.
+What is a forward deployed engineer course?
+A forward deployed engineer course trains you to take an AI use case from a vague business problem to a production system, and to stay accountable for the outcome. It combines applied AI engineering (LLMs, RAG, agentic workflows, evaluation, deployment) with the consulting skills a client-facing engineer needs: discovery, scoping, stakeholder communication and handoff. Most AI and data science courses end at the model. The FDE course at FDE Academy starts where they stop.
+Most AI pilots never reach production. Companies now hire forward deployed engineers to close that gap.
+How intensive is the FDE course?
+The program runs 32 weeks across four phases. Every week has a technical track and a consulting track, and every phase ends in something you build or write.
+Phase 1, Foundations (weeks 1 to 4): LLM basics, prompt engineering, LangChain workflows, structured output, SPIN discovery interviews and requirement framing. You deploy your first AI app.
+Phase 2, Core Build with IIT modules (weeks 5 to 12): tool calling, memory, LangSmith observability, guardrails, golden-set evals, agent deployment on AWS AgentCore, RAG foundations and enterprise ingestion. You write PRDs, architecture canvases and estimates, and complete Mini Projects 1 and 2.
+Phase 3, Deployment Depth (weeks 13 to 20): enterprise RAG, knowledge graphs, hybrid search, reranking, RAGAS evaluation, LangGraph with durable memory, checkpointing and subgraphs. You write proposals, SOWs and implementation roadmaps, and complete Mini Projects 3 and 4.
+Phase 4, Capstone and Mastery (weeks 21 to 32): MCP servers, regression evals, human-in-the-loop guardrails, prompt injection defence (OWASP LLM Top 10), governance, AWS deployment with a runbook, multi-agent systems and small language model fine-tuning with LoRA and QLoRA. You complete Projects 5 and 6 and a live capstone demo before an evaluation panel.
+The FDE Lab: Learn, Apply, Build
+The FDE Lab is the learning system behind the program. You learn 30+ GenAI tools and production patterns, apply them to case studies modelled on real company problems, and build production-grade systems. The case studies cover payment fraud detection with a 100ms latency requirement, ticket intelligence across 100,000 monthly tickets, transaction reconciliation at 3 million transactions, and dynamic pricing across 500,000+ routes.
+Tools and technologies covered
+LangChain, LangGraph, CrewAI, Agno, Semantic Kernel, Pinecone, Weaviate, Qdrant, LangSmith, RAGAS, Helicone, Weights & Biases, NeMo Guardrails, AWS AgentCore, Bedrock Knowledge Bases, Modal, BentoML, Model Context Protocol (MCP), LoRA, QLoRA, and small language models. The program also covers AI-driven development (AIDD) and the agentic software development lifecycle (aSDLC).
+Taught by working forward deployed engineers
+The faculty are practising FDEs from companies including Adobe, HackerRank, Bluecore, HighRadius, Sarvam, PromptQL and Luminai. Industry mentors include leaders from JPMorgan Chase, Google, Microsoft, Vodafone, Spotify, SAP Labs India, Deloitte, PwC and Best Buy.
+IIT certification and the Founding Summit
+Phase 2 is delivered as IIT modules. An optional IIT certification add-on includes live sessions by IIT professors, a structured academic curriculum for weeks 1 to 12 and optional campus immersion, leading to an independent certification from FDE Academy and IIT. The program also includes a two-day Founding Summit in Goa for the first generation of forward deployed engineers.
+Who is in the cohort
+The cohort averages 8 years of experience. By level, it is 7% VP, director or C-suite, 24% manager or lead, 44% senior individual contributor, 16% mid-level and 9% associate. Learners come from companies such as Amazon, IBM, Visa, Cisco, Oracle, Salesforce, Dell and Swiggy.
+Eligibility and admission
+You need a four-year degree with mathematics, AI/ML foundations, cloud exposure, strong Python or SQL, and 2+ years of technical experience (or an exceptional fresher profile). Admission has five steps: application, an online proficiency test, interview preparation, a technical and consulting interview of up to an hour, and a final board decision.
+FDE careers and salary in India
+Graduates target roles such as forward deployed engineer, applied AI engineer, AI solutions engineer, GenAI architect and AI systems lead. Indicative market ranges, per AIM Research (September 2026), are ₹32 LPA to ₹1.55 Cr+ for forward deployed engineers and ₹22 LPA to ₹75 LPA+ for applied AI engineers. These are market ranges, not a placement guarantee.
+FDE course vs AI engineer vs data science course
+A data science course teaches analysis and modelling. An AI or ML engineering course teaches training and serving models. A forward deployed engineer course teaches delivery: scoping a customer's problem, integrating AI into their systems, securing and evaluating it, and handing it off. It covers the skills the other two usually skip.
+Learn more
+Compare options in our forward deployed engineer course comparison guide, or read about the FDE role, salary and roadmap in our blog.
+Read more
+Address:
+Ground Floor & 1st Floor, Incubex HSR23, 19th Main Rd, beside Decathlon Sports India, HSR Connect, Sector 4, HSR Layout, Bengaluru, Karnataka, Bangalore, 560102, IN
+Contact:
++91 9217395923info@fde.academy
+Resources
+Blogs & Insights
+Tools
+Enterprise
+Featured In
+© 2026 FDE Academy. All rights reserved.
+Privacy PolicyTerms & ConditionsSitemap

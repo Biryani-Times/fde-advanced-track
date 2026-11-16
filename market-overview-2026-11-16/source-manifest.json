@@ -1,0 +1,162 @@
+{
+  "reviewed": "2026-11-16",
+  "vendors": [
+    {
+      "vendor": "Futurense FDE Academy",
+      "source_url": "https://fde.academy/",
+      "reviewed": "2026-11-16",
+      "attachment_type": "Saved public curriculum \u00b7 extracted from the official webpage",
+      "limitations": "The public brochure request requires contact details and an OTP. The attachment is a saved public curriculum, not that brochure."
+    },
+    {
+      "vendor": "AI Makerspace",
+      "source_url": "https://maven.com/aimakerspace/ai-fde-certification",
+      "reviewed": "2026-11-16",
+      "attachment_type": "Saved public curriculum \u00b7 extracted from the official webpage",
+      "limitations": "This is the AI FDE Certification, not the separate AI Engineering Bootcamp. Cohort and individual lesson dates are inconsistent; confirm the timetable."
+    },
+    {
+      "vendor": "K21Academy",
+      "source_url": "https://k21academy.com/course/fde-fp/",
+      "reviewed": "2026-11-16",
+      "attachment_type": "Saved public curriculum \u00b7 extracted from the official webpage",
+      "limitations": "Published syllabus breadth does not establish the depth achieved by an individual learner."
+    },
+    {
+      "vendor": "Fireblaze AI School",
+      "source_url": "https://fireblazeaischool.in/courses/forward-deployed-engineer-course/",
+      "reviewed": "2026-11-16",
+      "attachment_type": "Saved public curriculum \u00b7 extracted from the official webpage",
+      "limitations": "The six published phase lengths total 24 weeks against a 26-week headline. Confirm how the remaining time is allocated."
+    },
+    {
+      "vendor": "Masai + iHUB DivyaSampark",
+      "source_url": "https://www.masaischool.com/program/iit-roorkee/fde/growth/accelerate",
+      "reviewed": "2026-11-16",
+      "attachment_type": "Research summary of the public curriculum",
+      "limitations": "Module allocations total 32 weeks versus the seven-month label. The brochure link is included; the local download failed certificate verification."
+    }
+  ],
+  "files": [
+    {
+      "file": "WEBSITE_LINKS.txt",
+      "bytes": 395,
+      "sha256": "f28bb3c76dc260600981faf1c0a7b0e88e516bdb0175bf3df58896fbf5bd75b7"
+    },
+    {
+      "file": "FDE_Market_Overview.pdf",
+      "bytes": 104933,
+      "sha256": "46935b2950ab7053653adb5ce8560f703c356dd9bdefca45ef9a84753211bd97"
+    },
+    {
+      "file": "FDE_Market_Overview.docx",
+      "bytes": 40903,
+      "sha256": "a4325fbe44b0d05e068333b9f147b51d64aa5581ce6ee0742007f25d12577a15"
+    },
+    {
+      "file": "START_HERE.html",
+      "bytes": 9427,
+      "sha256": "ad13908da5d35a0318dd3973e54c7cf065f25704c5c6cd0f3810654700aee078"
+    },
+    {
+      "file": "README.txt",
+      "bytes": 511,
+      "sha256": "993b768c16d6e307724282b178cd0aa0dd568f84d6e7360e390d903f7814945f"
+    },
+    {
+      "file": "WEBSITE_LINKS.html",
+      "bytes": 1150,
+      "sha256": "cbdeac65efd6f95a0117b316bcbe4a1347d438a25c123b79a00c88999072817c"
+    },
+    {
+      "file": "scaler_reference/Scaler_Advanced_Track_Proposal.pdf",
+      "bytes": 488204,
+      "sha256": "65ef3022403309607b3a7b23e52a375a6cffb233b72395cb8fcb173a4221377a"
+    },
+    {
+      "file": "scaler_reference/Scaler_Official_Brochure.pdf",
+      "bytes": 4391079,
+      "sha256": "c3404055690b871873be7fff2c2859412e4241d145b2dd7851cfb67503ba2005"
+    },
+    {
+      "file": "scaler_reference/Scaler_Advanced_Track_Proposal.docx",
+      "bytes": 65218,
+      "sha256": "b737c59da87817fbb02c46353a29aa5120c32586e8c516fca859e133c4e7aa62"
+    },
+    {
+      "file": "curricula/02_ai_makerspace/curriculum.html",
+      "bytes": 6720,
+      "sha256": "7713f930c8b132be4e4d63213ebe014a31af29d04704661c999babc0a83125d4"
+    },
+    {
+      "file": "curricula/02_ai_makerspace/official-page-text.txt",
+      "bytes": 18139,
+      "sha256": "7711044c2bc69288971cee20c7712ef18cf7e29272747fc9b913be9051b73fd9"
+    },
+    {
+      "file": "curricula/02_ai_makerspace/official-page-original.html",
+      "bytes": 745441,
+      "sha256": "d424726c32b6aaa0fca2e779cc93d8791687c9247e0a7d4040bda2452426f304"
+    },
+    {
+      "file": "curricula/04_fireblaze/curriculum.html",
+      "bytes": 5294,
+      "sha256": "75ad53e1f60c405ddf2956cdb4c58a340fbd4c1294061d305ca21578b610e53a"
+    },
+    {
+      "file": "curricula/04_fireblaze/official-page-text.txt",
+      "bytes": 30958,
+      "sha256": "738d33cfb86fe6787dbedc33a802b3386d372421da59c2684a86e657fed00ec3"
+    },
+    {
+      "file": "curricula/04_fireblaze/official-page-original.html",
+      "bytes": 117348,
+      "sha256": "713925cbfbcdd695d399acb0c7673e44433d4bb5d3abf58400331bd2991a944a"
+    },
+    {
+      "file": "curricula/05_masai/curriculum-summary.txt",
+      "bytes": 1059,
+      "sha256": "03e0b5a714db831b2b1ed49de64cfd9f1042eb1d42a5b3762a3a2424927db290"
+    },
+    {
+      "file": "curricula/05_masai/curriculum.html",
+      "bytes": 2317,
+      "sha256": "fd2cf0ad10f9b3657a065edb645fb0fe4e080b71954e81899e9c127243167735"
+    },
+    {
+      "file": "curricula/05_masai/official-brochure-link.url",
+      "bytes": 91,
+      "sha256": "ded5b1b3d83c709488cec645415f01fa3e75f43e96aa57cb49015f3ca8819c9e"
+    },
+    {
+      "file": "curricula/03_k21academy/curriculum.html",
+      "bytes": 10014,
+      "sha256": "45a8216a124c56f48cef28042166c1c57ad3bd5a6ef6a6b98e1b13e60bcacf8d"
+    },
+    {
+      "file": "curricula/03_k21academy/official-page-text.txt",
+      "bytes": 22876,
+      "sha256": "19b8ece974c5caec5b80af1d9317482acb7819df401f65d61b4c33c4ab4e2b48"
+    },
+    {
+      "file": "curricula/03_k21academy/official-page-original.html",
+      "bytes": 340801,
+      "sha256": "53f82ff8379220fc24800b6cf3e25dd2095928709f62655444976a77f4acdd3d"
+    },
+    {
+      "file": "curricula/01_fde_academy/curriculum.html",
+      "bytes": 3264,
+      "sha256": "d297634153fd86c109ae1459e9f9a5d691cbef611c13bcb25408513e98bcdaea"
+    },
+    {
+      "file": "curricula/01_fde_academy/official-page-text.txt",
+      "bytes": 23796,
+      "sha256": "e9d01df65e37f1d24b94cac4df61219e5fe83ccb5e991d649d2914dfd23d7f2b"
+    },
+    {
+      "file": "curricula/01_fde_academy/official-page-original.html",
+      "bytes": 334910,
+      "sha256": "3a988423b962cb5585ce010c402d1fd2072db8e0c55d517d9d839739c5fd3de3"
+    }
+  ]
+}

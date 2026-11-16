@@ -1,0 +1,571 @@
+K21Academy
+Source: https://k21academy.com/course/fde-fp/
+Downloaded: 16 November 2026
+Type: text extracted from the public program page, not a vendor PDF brochure.
+
+Forward Deployed Engineer Program | Build Real AI Systems
+The role
+Pay
+Curriculum
+Projects
+What you get
+Pricing
+Build it first. Then take it to production.
+Become a
+Forward Deployed Engineer
+Twelve weeks, live with industry experts, turning one client's business problem into a working AI system you deploy, measure and hand over - the project you walk a hiring manager through.
+See pricing
+View curriculum
+The stack you build with
+Python
+FastAPI
+React
+TypeScript
+OpenAI
+Claude
+LangChain / LangGraph
+Postgres + pgvector
+Docker
+GitHub Actions
+AWS
+Azure
+12weeks, live
+18modules
+45hands-on labs
+17checkpoint deliverables
+1capstone and Demo Day
+Upcoming Launch
+Next Batch Starts In
+14 November 2026
+00Days
+00Hours
+00Minutes
+00Seconds
+Batch timings
+PST7:00 AM - 10:00 AM
+EST10:00 AM - 1:00 PM
+GMT3:00 PM - 6:00 PM
+IST8:30 PM - 11:30 PM
+Part engineer, part architect, part consultant
+A Forward Deployed Engineer sits with the client and owns the whole arc, from the first interview to the handover. This program follows that same arc, week by week.
+01DiscoverThe problem, the users, the data
+02DesignScope and architecture
+03BuildThe full-stack agentic app
+04DeployContainers, CI/CD, their cloud
+05MeasureEvals, monitoring, cost
+06Hand overDocs, training, adoption
+Hired by OpenAI, Anthropic, Palantir, Salesforce, Databricks and Deloitte - and every enterprise taking AI to production.
+What Forward Deployed Engineers are paid
+One of the fastest-growing titles in AI, and the pay reflects how few people can do the job.
+Forward Deployed Infrastructure EngineerArtmac Soft$201,513
+Forward Deployed Engineer - DatabricksDeloitte$192,480
+AI Engineer, Forward Deployed EngineeringArtmac Soft$186,336
+Forward Deployed Data EngineerArtmac Soft$173,717
+Forward Deployed Engineer - PalantirDeloitte$149,969
+$150K-$250K+typical range for the role
+AI + cloud + clientthe three skill sets every post asks for
+~25% travelworking on-site with customers
+Posting figures are estimated annual salary, USD, Houston TX, via Adzuna. The range reflects the role across markets and seniority.
+THE CURRICULUM
+See exactly what you’ll build, week by week
+Get a clear look at the learning path, hands-on work, and the real-world projects that take you from AI foundations to deploying production-ready solutions as a Forward Deployed Engineer.
+12-week live program
+Hands-on labs
+Real-world capstone
+18 modules across 12 weeks
+Two hours a day, Monday to Friday. The first hour is concept and a live demo; the second is a lab you build yourself. Open any module to see what you cover, the labs inside it, and what you hand in.
+Technical track12
+Client-facing track5
+Capstone1
+M01Weeks 1-3
+Python for AIThe language every FDE writes in daily, aimed squarely at AI work.
+3 labs
+What you cover
+Python foundations for AI engineering
+Typing, packaging and project structure
+Tests you can put in CI
+Labs
+Build a typed Python utility for an AI service
+Write the pytest suite that covers it
+Package the project and run its tests in CI
+CheckpointPython utility + tests
+M02Weeks 1-3
+Delivery & AI-assisted codingHow software actually gets shipped - and how to use AI assistants without losing control of the codebase.
+2 labs
+What you cover
+The delivery lifecycle for AI projects
+AI-assisted coding workflows
+Git, branches and pull requests
+Labs
+Ship a change through a branch, pull request and review
+Drive an AI coding assistant through a real refactor
+M03Weeks 1-3
+FastAPI & SQLThe API layer of every production agentic app, and the database underneath it.
+3 labs
+What you cover
+FastAPI services and OpenAPI contracts
+SQL and PostgreSQL fundamentals
+Data modeling for AI applications
+Labs
+Build the Ticket Service API with FastAPI
+Model and query the data in PostgreSQL
+Publish the OpenAPI contract and test every endpoint
+CheckpointTicket Service API
+M04Weeks 3-5
+OpenAI & Claude APIsTwo providers, swapped freely - so you are never locked into one model vendor.
+4 labs
+What you cover
+OpenAI and Anthropic Claude APIs
+Prompt engineering and structured output
+Bedrock, Azure OpenAI and Ollama options
+Labs
+Call the OpenAI and Claude APIs side by side
+Force structured output your app can rely on
+Build a provider-agnostic LLM layer and swap models
+Compare cost and latency across providers
+CheckpointLLM service + chat UI
+M05Weeks 3-5
+React front endThe interface the client actually sees - a streaming chat UI with an approval queue.
+3 labs
+What you cover
+React, Vite and TypeScript
+A streaming chat interface
+An approval queue for human-in-the-loop
+Labs
+Build the streaming chat interface in React
+Add the human approval queue
+Wire the UI to your FastAPI service
+M06Weeks 5-7
+RAG with pgvectorRetrieval accurate enough to put in front of a client, with a citation on every answer.
+5 labs
+What you cover
+Chunking, embedding and the pgvector store
+Hybrid search and reranking
+Citations, streaming and groundedness scoring
+Labs
+Chunk and embed a document set into pgvector
+Add hybrid search across keyword and vector
+Add cross-encoder reranking
+Return streamed answers with citations
+Score the pipeline with RAGAS groundedness
+CheckpointKnowledge assistant (RAG)
+M07Weeks 5-7
+LangChainOrchestration for retrieval and chains, before you move up to graphs.
+3 labs
+What you cover
+LangChain chains and runnables
+Retrieval orchestration
+Connecting tools and data sources
+Labs
+Build retrieval chains with LCEL
+Connect tools and data sources to a chain
+Compare chain designs on the same question set
+M08Weeks 7-9
+LangGraph agentsThe deepest module: multi-agent flows that triage, plan, act and pause for a human.
+6 labs
+What you cover
+LangGraph state, nodes and conditional edges
+Triage → plan → act agent loops
+Human-approval interrupts, memory and traces
+Labs
+Build a StateGraph with typed state
+Add conditional edges and routing
+Parallelise work with fan-out and fan-in
+Add a human-approval interrupt
+Persist memory across turns
+Trace and visualise the graph
+CheckpointMulti-agent workflow
+M09Weeks 7-9
+Agent SDKs & MCPGive your agent real tools - and build the MCP server that exposes them.
+4 labs
+What you cover
+OpenAI Agents SDK and Claude SDK
+Model Context Protocol servers and clients
+Tool calls into Jira and Confluence
+Labs
+Build your first ReAct agent with tools
+Write a custom MCP server for Jira
+Call Confluence through MCP from the agent
+Compare the OpenAI Agents SDK with the Claude SDK
+CheckpointMCP server
+M10Weeks 9-12
+Evals & securityThe module that separates a demo from something a client's security team will approve.
+6 labs
+What you cover
+LangSmith tracing, RAGAS and DeepEval
+Guardrails and Presidio PII redaction
+OWASP LLM Top 10 and red-teaming
+Labs
+Build a golden dataset from real tickets
+Score groundedness and relevance with RAGAS
+Check tool-call accuracy with DeepEval
+Redact PII with Presidio
+Red-team for prompt injection and data leakage
+Trace every run in LangSmith
+CheckpointEval + red-team report
+M11Weeks 9-12
+Docker & CI/CDContainers and a pipeline that blocks the deploy when quality drops.
+3 labs
+What you cover
+Docker images for API, agent, UI and Postgres
+GitHub Actions pipelines
+Eval gates, lint, unit and integration tests
+Labs
+Containerise the API, agent, UI and Postgres
+Build a GitHub Actions pipeline
+Add the eval gate that blocks a bad deploy
+M12Weeks 9-12
+Render, AWS & AzureShipping into the client's own cloud account, not a demo sandbox.
+3 labs
+What you cover
+Render, AWS ECS / Fargate and Azure Container Apps
+Private networks, managed secrets and SSO
+Monitoring, logs, traces and cost
+Labs
+Deploy to AWS ECS / Fargate or Azure Container Apps
+Set up private networking, secrets and SSO
+Build the Grafana KPI dashboard
+CheckpointCI/CD + cloud deploy
+M13Runs alongside
+The FDE role & engagement setupWhat a Forward Deployed Engineer actually does, and how an engagement is set up from day one.
+1 practice
+What you cover
+The role across discover, design, build, deploy, measure and hand over
+Working in a pod with a Deployment Strategist
+Engagement setup and ways of working
+Practice
+Map a real engagement onto the six FDE steps
+M14Week 4
+Client discoveryThe skill the job posts call customer-facing delivery - and the first thing an interviewer will test.
+2 practice
+What you cover
+Interviewing stakeholders: leads, agents, end users
+Analysing operational data and ticket history
+Agreeing scope, data access and success metrics
+Practice
+Run a discovery interview role-play
+Write the client problem brief from your findings
+CheckpointClient problem brief
+M15Week 7
+PRD & solution designTurning a conversation into a document a client will sign off.
+2 practice
+What you cover
+PRD-lite: user stories, acceptance criteria, out-of-scope
+SOW outline: sprints, effort, cost estimate, risks
+C4 architecture diagrams and ADRs
+Practice
+Write the PRD-lite and SOW outline
+Draw the C4 diagrams and record your ADRs
+CheckpointPRD-lite + SOW outline
+M16Runs alongside
+Stakeholder updatesKeeping a client informed in the language they care about.
+1 practice
+What you cover
+Weekly updates against the agreed criteria
+Executive versus technical communication
+Reporting risk, cost and change honestly
+Practice
+Deliver a weekly stakeholder update to the room
+M17Week 12
+Demo & adoptionFinishing the engagement so the client team can run it without you.
+2 practice
+What you cover
+Runbook, user guide and training session
+Adoption plan: ownership, KPIs, next use cases
+The 10-minute executive demo
+Practice
+Run the handover and training session
+Rehearse the 10-minute executive demo
+M18Weeks 9-12
+Capstone & Demo DayOne client problem taken end to end - discover, design, build, deploy, measure, hand over - then presented to a panel.
+3 labs
+What you cover
+Pick a scenario or bring one from your own industry
+Run all six FDE steps against it
+Present to a panel at Demo Day
+Labs
+Build and deploy the system into a cloud account
+Produce the full client artifact set
+Record the 10-minute executive demo
+CheckpointCapstone package + Demo Day recording
+Every module is a layer of the same application
+Nothing is taught in isolation. By week 12 these layers are one running system in a cloud account.
+Front endM5
+React · Vite · TypeScript
+API layerM1 · M3
+FastAPI · Python · OpenAPI
+Agent layerM7-M9
+LangGraph · LangChain · Agents SDK · Claude SDK · MCP
+LLM providersM4
+OpenAI · Claude · Bedrock · Azure OpenAI · Ollama
+Data & retrievalM3 · M6
+PostgreSQL · pgvector · Redis · hybrid search
+Quality & securityM10
+LangSmith · RAGAS · DeepEval · Presidio · Pytest
+Ship & runM11 · M12
+Docker · GitHub Actions · Render · AWS · Azure · Grafana
+Your portfolio, on GitHub
+FDE and Agentic AI projects
+Not toy scripts. Each one is built, deployed, and documented the way enterprise teams actually ship.
+PROJECT 01
+Financial Analyst Agentic RAG
+An autonomous financial advisor agent that retrieves documents, reasons over them using a ReAct loop, and returns cited recommendations.
+LangChain
+FAISS
+ReAct
+PROJECT 02
+Customer Support Multi-Agent System
+A production multi-agent customer support system. A Supervisor agent routes queries to specialist sub-agents (orders, returns, billing). Deployed to AWS EC2.
+LangGraph
+Supervisor
+FastAPI
+AWS EC2
+PROJECT 03
+Compliance Report Generator
+An Orchestrator dynamically fans out work to specialized Worker agents, then runs an Evaluator-Optimizer loop to improve report quality before final output.
+LangGraph
+Orchestrator-Worker
+Send API
+PROJECT 04
+CrewAI Content Production Pipeline
+A multi-agent content crew: Researcher, Writer, Editor, and Publisher agents collaborate to produce platform-optimized fintech marketing content at scale.
+CrewAI
+Custom Tools
+Structured Output
+PROJECT 05
+Secure Insurance Claims Agent + MCP
+A secure claims pipeline with a full 4-layer guardrail stack (input sanitization, PII via Presidio, output safety, HITL approval). Exposes tools via MCP server.
+FastMCP
+A2A
+Presidio
+Langfuse
+PROJECT 06
+End-to-End Agentic RAG System
+Production-grade Agentic RAG with hybrid BM25+vector retrieval, cross-encoder reranking, multi-query expansion, a RAGAS evaluation suite, and live FastAPI + Chainlit UI.
+RAGAS
+FastAPI
+Chainlit
+Docker
+PROJECT 07
+Car Insurance Conversational AI Agent
+A full-stack conversational agent handling policy queries, claim initiation, document collection, and escalation workflows. Integrates MCP, PII guardrails, and observability.
+LangGraph
+MCP
+LangSmith
+AWS EC2
+PROJECT 08
+FDE Client Capstone
+One client problem taken end to end: discover, design, build, deploy, measure and hand over, then present to a panel at Demo Day. Pick a scenario such as an IT helpdesk copilot, claims triage or invoice reconciliation, or bring one from your own industry.
+Six FDE Steps
+Cloud Deploy
+Demo Day
+What you walk away with
+Not a certificate - a deployed system and the paperwork around it. Here is what one capstone produced.
+38%tickets deflectedagreed target was 35%
+41sfirst responsedown from 6 hours
+0.93groundednessscored on 120 real tickets
+$0.012per conversationbudget was $0.05
+Live URL and GitHub repo
+The deployed app, its CI/CD history, tests and eval suite
+Architecture document
+C4 diagrams and ADRs explaining every design decision
+Eval report
+Groundedness, relevance, tool accuracy, red-team findings and fixes
+Client artifacts
+The problem brief, PRD-lite and SOW outline
+Handover pack
+Runbook, user guide and adoption plan for the client team
+Demo Day recording
+A 10-minute executive presentation you can send a recruiter
+Who this is for
+Working professionals who can give it two hours a day. No prior AI or ML experience needed.
+Software developersBackend and full-stack engineers moving into applied AI
+Consultants & tech leadsClient-facing delivery and solution roles
+Data & ML engineersYou know models and pipelines; now you need production skills
+Enterprise app specialistsERP, HCM and CRM people building AI extensions
+What you should already know
+One programming language, ideally Python
+The command line and basic Git
+A basic understanding of APIs and databases
+Three to four hours of self-practice a week
+What you need to have
+A laptop with 8 GB RAM, 16 GB is better
+Admin rights to install Docker and Node.js
+OpenAI and Anthropic API accounts
+GitHub, Render and an AWS or Azure account
+Six reasons this program is different
+Build first
+More than half the time is labs and build sprints, not slides.
+Two model providers
+OpenAI and Claude, swapped freely - no vendor lock-in.
+The whole stack
+React, FastAPI and pgvector through to a live URL.
+Production ready
+Evals, guardrails, observability and the OWASP LLM Top 10.
+Client facing
+Discovery, demos and handover practised, not just discussed.
+Proof of skill
+17 deliverables and one deployed capstone you can walk through.
+Where this takes you
+Four roles the same skill set opens. Outcomes depend on your effort, your prior experience and the market.
+Forward Deployed Engineer
+Embed with clients and ship AI into their environment
+Salesforce · OpenAI · Anthropic · Palantir
+Applied AI Engineer
+LLM, RAG and agent features inside products
+Product and platform teams
+AI Solutions Engineer
+Design and demo AI solutions for customers
+Pre-sales and solution teams
+Agentic AI Developer
+Multi-agent workflows on enterprise tools
+Consultancies and enterprise IT
+From where you are today to an offer
+The three steps our 46,000+ learners have used, mapped to what the job description asks for.
+01
+Skills
+Not confident, then confident
+18 modules and 45 hands-on labs
+17 checkpoint deliverables
+A capstone with a live URL and repo
+Both plans
+02
+Visibility
+No calls, then interview calls
+A resume written in FDE keywords
+LinkedIn profile rebuilt and optimised
+A targeted search with weekly alerts
+Job preparation
+03
+Offer
+Interviews, then an offer
+Unlimited mock interviews, technical and behavioural
+Walking a panel through your own system
+Negotiation, then a 1 - month on-job support
+Job preparation
+One program. Two plans.
+Both include the full 12-week live program, 45 labs, 17 checkpoints and the capstone.
+Upskill
+Upskill + job preparation
+Pay in full
+Pay monthly3×
+Build the system
+Upskill - program only
+$2,997
+One payment. Learn the stack and ship the system.
+12-week live program, led by industry experts
+18 modules and 45 hands-on labs
+17 checkpoint deliverables
+Capstone project and Demo Day
+1-year access to recordings and labs
+Community access for a year
+Enroll in Upskill - $2,997
+Six-month money-back guarantee
+Flexible
+Upskill - program only
+$1,097 × 3
+Three monthly payments, $3,291 in total.
+12-week live program, led by industry experts
+18 modules and 45 hands-on labs
+17 checkpoint deliverables
+Capstone project and Demo Day
+1-year access to recordings and labs
+Community access for a year
+Enroll - $1,097 × 3
+Six-month money-back guarantee
+Most popular
+Upskill + job preparation
+$3,997
+One payment. Learn, ship, and go after the job.
+12-week live program, led by industry experts
+18 modules and 45 hands-on labs
+17 checkpoint deliverables
+Capstone project and Demo Day
+1-year access to recordings and labs
+Community access for a year
+Everything above, plus
+FDE resume preparation and a weekly resume clinic
+LinkedIn profile rebuilt and optimised
+Unlimited mock interviews, technical and behavioural
+Job-search strategy and application tracking
+1-Month On-Job Support
+Enroll with job preparation - $3,997
+Six-month money-back guarantee
+Most popular
+Upskill + job preparation
+$1,097 × 4
+Four monthly payments, $4,388 in total.
+12-week live program, led by industry experts
+18 modules and 45 hands-on labs
+17 checkpoint deliverables
+Capstone project and Demo Day
+1-year access to recordings and labs
+Community access for a year
+Everything above, plus
+FDE resume preparation and a weekly resume clinic
+LinkedIn profile rebuilt and optimised
+Unlimited mock interviews, technical and behavioural
+Job-search strategy and application tracking
+1-Month On-Job Support
+Enroll - $1,097 × 4
+Six-month money-back guarantee
+Six months. Love it or leave it.
+Do the work, and if it does not deliver, you get your money back.
+Attend the live sessions and complete the labs
+Submit all 17 checkpoint deliverables
+Build and present the capstone at Demo Day
+Ask for support when you need it - do not go quiet
+Did all that and still not satisfied? A full refund. Action-based, six months, no fine print.
+Before you enroll
+Who is this program for?
+Software developers, consultants and tech leads, data and ML engineers, and enterprise application specialists - anyone who can commit two hours a day, five days a week. No prior AI or ML experience is required; the program teaches LLMs, RAG and agents from the ground up.
+What do I need before I join?
+One programming language (Python is ideal), the command line and basic Git, and a basic understanding of APIs and databases. On the hardware side: a laptop with 8 GB RAM (16 GB is better), admin rights to install Docker and Node.js, OpenAI and Anthropic API accounts, and GitHub, Render and an AWS or Azure account. API and cloud usage is pay-as-you-go, and free tiers and credits apply where available.
+How much time does it take each week?
+Two hours a day, Monday to Friday, across 12 weeks. The first hour is concept and a live demo; the second is a guided lab you build yourself. Friday is checkpoint review. Plan another three to four hours of self-practice a week.
+Is the training live or recorded?
+Live and instructor-led with industry experts. Every session is recorded, and you keep access to the recordings and labs for a year.
+What will I actually have at the end?
+A deployed capstone and the artifact set around it: a live URL and GitHub repo, an architecture document with C4 diagrams and ADRs, an eval report, the client artifacts, a handover pack, and a 10-minute Demo Day recording. Every item is something a hiring manager can open.
+What is the difference between the two plans?
+Both include the full 12-week live program, 45 labs, 17 checkpoint deliverables and the capstone. Upskill + job preparation adds FDE resume preparation and a weekly resume clinic, LinkedIn optimization, unlimited mock interviews, a job-search strategy with application tracking, and a year of on-job support after placement.
+Can I pay in instalments?
+Yes. Both plans can be split over three monthly payments - switch to Pay monthly in the pricing section to see the amounts.
+Do you guarantee a job?
+No one honestly can. What we guarantee is the work: the program, the capstone, and in the job preparation plan the resume, interview and job-search support behind it. Outcomes depend on your effort, your prior experience and market conditions. The program is also covered by a six-month money-back guarantee.
+Can my employer sponsor a team?
+Yes. Corporate cohorts run at a time slot agreed with you, with capstones set in your own business context, weighted deliverables to track progress, and a readiness checklist before week one. Contact your program advisor to arrange it.
+Take AI from idea to production
+Join the next cohort, build a real AI system, and walk away with a project a hiring manager can open.
+Forward Deployed Engineer Program · K21 Academy
+Manage Consent
+To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.
+Functional
+Functional
+Always active
+The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.
+Preferences
+Preferences
+The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.
+Statistics
+Statistics
+The technical storage or access that is used exclusively for statistical purposes.
+The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.
+Marketing
+Marketing
+The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.
+Manage options
+Manage services
+Manage {vendor_count} vendors
+Read more about these purposes
+Accept
+Deny
+View preferences
+Save preferences
+View preferences
+{title}
+{title}
+{title}
+Manage consent
+Search
+Search
